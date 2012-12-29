@@ -1,0 +1,4 @@
+org.graphstream.algorithm
+org.graphstream.algorithm.coloring
+org.graphstream.algorithm.generator
+org.graphstream.algorithm.measure

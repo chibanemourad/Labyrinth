@@ -1,0 +1,3462 @@
+DGS004
+null 0 0
+cg  "ui.quality":"true"
+cg  "ui.antialias":"true"
+an "r-156"
+cn "r-156"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-143-156 (r-143 -> r-156)]]"
+cn "r-156"  "Kruskal.cluster":281
+cn "r-156"  "ui.style":"size: 1px;"
+cn "r-156"  "xy":12.500000,0.500000
+an "r-96"
+cn "r-96"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-83-96 (r-83 -> r-96)]]"
+cn "r-96"  "Kruskal.cluster":281
+cn "r-96"  "ui.style":"size: 1px;"
+cn "r-96"  "xy":7.500000,5.500000
+an "r-155"
+cn "r-155"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-142-155 (r-142 -> r-155)]]"
+cn "r-155"  "Kruskal.cluster":281
+cn "r-155"  "ui.style":"size: 1px;"
+cn "r-155"  "xy":11.500000,12.500000
+an "r-97"
+cn "r-97"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-84-97 (r-84 -> r-97)]]"
+cn "r-97"  "Kruskal.cluster":281
+cn "r-97"  "ui.style":"size: 1px;"
+cn "r-97"  "xy":7.500000,6.500000
+an "r-154"
+cn "r-154"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-141-154 (r-141 -> r-154)]]"
+cn "r-154"  "Kruskal.cluster":281
+cn "r-154"  "ui.style":"size: 1px;"
+cn "r-154"  "xy":11.500000,11.500000
+an "r-98"
+cn "r-98"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-85-98 (r-85 -> r-98)]]"
+cn "r-98"  "Kruskal.cluster":281
+cn "r-98"  "ui.style":"size: 1px;"
+cn "r-98"  "xy":7.500000,7.500000
+an "r-153"
+cn "r-153"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-140-153 (r-140 -> r-153)]]"
+cn "r-153"  "Kruskal.cluster":281
+cn "r-153"  "ui.style":"size: 1px;"
+cn "r-153"  "xy":11.500000,10.500000
+an "r-99"
+cn "r-99"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-86-99 (r-86 -> r-99)]]"
+cn "r-99"  "Kruskal.cluster":281
+cn "r-99"  "ui.style":"size: 1px;"
+cn "r-99"  "xy":7.500000,8.500000
+an "r-152"
+cn "r-152"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-152-153 (r-152 -> r-153)]]"
+cn "r-152"  "Kruskal.cluster":281
+cn "r-152"  "ui.style":"size: 1px;"
+cn "r-152"  "xy":11.500000,9.500000
+an "r-151"
+cn "r-151"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-138-151 (r-138 -> r-151)]]"
+cn "r-151"  "Kruskal.cluster":281
+cn "r-151"  "ui.style":"size: 1px;"
+cn "r-151"  "xy":11.500000,8.500000
+an "r-150"
+cn "r-150"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-137-150 (r-137 -> r-150)]]"
+cn "r-150"  "Kruskal.cluster":281
+cn "r-150"  "ui.style":"size: 1px;"
+cn "r-150"  "xy":11.500000,7.500000
+an "35"
+cn "35"  "Kruskal.cluster":232
+cn "35"  "ui.style":"size: 1px;"
+cn "35"  "xy":2,7
+an "36"
+cn "36"  "Kruskal.cluster":232
+cn "36"  "ui.style":"size: 1px;"
+cn "36"  "xy":2,8
+an "159"
+cn "159"  "Kruskal.cluster":232
+cn "159"  "ui.style":"size: 1px;"
+cn "159"  "xy":11,5
+an "33"
+cn "33"  "Kruskal.cluster":232
+cn "33"  "ui.style":"size: 1px;"
+cn "33"  "xy":2,5
+an "r-90"
+cn "r-90"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-89-90 (r-89 -> r-90)]]"
+cn "r-90"  "Kruskal.cluster":281
+cn "r-90"  "ui.style":"size: 1px;"
+cn "r-90"  "xy":6.500000,12.500000
+an "158"
+cn "158"  "Kruskal.cluster":232
+cn "158"  "ui.style":"size: 1px;"
+cn "158"  "xy":11,4
+an "34"
+cn "34"  "Kruskal.cluster":232
+cn "34"  "ui.style":"size: 1px;"
+cn "34"  "xy":2,6
+an "r-91"
+cn "r-91"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-91-92 (r-91 -> r-92)]]"
+cn "r-91"  "Kruskal.cluster":281
+cn "r-91"  "ui.style":"size: 1px;"
+cn "r-91"  "xy":7.500000,0.500000
+an "157"
+cn "157"  "Kruskal.cluster":232
+cn "157"  "ui.style":"size: 1px;"
+cn "157"  "xy":11,3
+an "39"
+cn "39"  "Kruskal.cluster":232
+cn "39"  "ui.style":"size: 1px;"
+cn "39"  "xy":2,11
+an "r-92"
+cn "r-92"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-79-92 (r-79 -> r-92)]]"
+cn "r-92"  "Kruskal.cluster":281
+cn "r-92"  "ui.style":"size: 1px;"
+cn "r-92"  "xy":7.500000,1.500000
+an "r-159"
+cn "r-159"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-146-159 (r-146 -> r-159)]]"
+cn "r-159"  "Kruskal.cluster":281
+cn "r-159"  "ui.style":"size: 1px;"
+cn "r-159"  "xy":12.500000,3.500000
+an "156"
+cn "156"  "Kruskal.cluster":232
+cn "156"  "ui.style":"size: 1px;"
+cn "156"  "xy":11,2
+an "r-93"
+cn "r-93"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-80-93 (r-80 -> r-93)]]"
+cn "r-93"  "Kruskal.cluster":281
+cn "r-93"  "ui.style":"size: 1px;"
+cn "r-93"  "xy":7.500000,2.500000
+an "r-158"
+cn "r-158"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-145-158 (r-145 -> r-158)]]"
+cn "r-158"  "Kruskal.cluster":281
+cn "r-158"  "ui.style":"size: 1px;"
+cn "r-158"  "xy":12.500000,2.500000
+an "155"
+cn "155"  "Kruskal.cluster":232
+cn "155"  "ui.style":"size: 1px;"
+cn "155"  "xy":11,1
+an "r-94"
+cn "r-94"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-94-95 (r-94 -> r-95)]]"
+cn "r-94"  "Kruskal.cluster":281
+cn "r-94"  "ui.style":"size: 1px;"
+cn "r-94"  "xy":7.500000,3.500000
+an "37"
+cn "37"  "Kruskal.cluster":232
+cn "37"  "ui.style":"size: 1px;"
+cn "37"  "xy":2,9
+an "r-157"
+cn "r-157"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-144-157 (r-144 -> r-157)]]"
+cn "r-157"  "Kruskal.cluster":281
+cn "r-157"  "ui.style":"size: 1px;"
+cn "r-157"  "xy":12.500000,1.500000
+an "154"
+cn "154"  "Kruskal.cluster":72
+cn "154"  "ui.style":"size: 1px;"
+cn "154"  "xy":11,0
+an "r-95"
+cn "r-95"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-95-108 (r-95 -> r-108)]]"
+cn "r-95"  "Kruskal.cluster":281
+cn "r-95"  "ui.style":"size: 1px;"
+cn "r-95"  "xy":7.500000,4.500000
+an "38"
+cn "38"  "Kruskal.cluster":232
+cn "38"  "ui.style":"size: 1px;"
+cn "38"  "xy":2,10
+an "152"
+cn "152"  "Kruskal.cluster":232
+cn "152"  "ui.style":"size: 1px;"
+cn "152"  "xy":10,12
+an "153"
+cn "153"  "Kruskal.cluster":232
+cn "153"  "ui.style":"size: 1px;"
+cn "153"  "xy":10,13
+an "150"
+cn "150"  "Kruskal.cluster":232
+cn "150"  "ui.style":"size: 1px;"
+cn "150"  "xy":10,10
+an "151"
+cn "151"  "Kruskal.cluster":232
+cn "151"  "ui.style":"size: 1px;"
+cn "151"  "xy":10,11
+an "43"
+cn "43"  "Kruskal.cluster":72
+cn "43"  "ui.style":"size: 1px;"
+cn "43"  "xy":3,1
+an "42"
+cn "42"  "Kruskal.cluster":72
+cn "42"  "ui.style":"size: 1px;"
+cn "42"  "xy":3,0
+an "41"
+cn "41"  "Kruskal.cluster":232
+cn "41"  "ui.style":"size: 1px;"
+cn "41"  "xy":2,13
+an "40"
+cn "40"  "Kruskal.cluster":232
+cn "40"  "ui.style":"size: 1px;"
+cn "40"  "xy":2,12
+an "r-143"
+cn "r-143"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-130-143 (r-130 -> r-143)]]"
+cn "r-143"  "Kruskal.cluster":281
+cn "r-143"  "ui.style":"size: 1px;"
+cn "r-143"  "xy":11.500000,0.500000
+an "r-142"
+cn "r-142"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-141-142 (r-141 -> r-142)]]"
+cn "r-142"  "Kruskal.cluster":281
+cn "r-142"  "ui.style":"size: 1px;"
+cn "r-142"  "xy":10.500000,12.500000
+an "r-145"
+cn "r-145"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-132-145 (r-132 -> r-145)]]"
+cn "r-145"  "Kruskal.cluster":281
+cn "r-145"  "ui.style":"size: 1px;"
+cn "r-145"  "xy":11.500000,2.500000
+an "r-144"
+cn "r-144"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-144-145 (r-144 -> r-145)]]"
+cn "r-144"  "Kruskal.cluster":281
+cn "r-144"  "ui.style":"size: 1px;"
+cn "r-144"  "xy":11.500000,1.500000
+an "r-141"
+cn "r-141"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-140-141 (r-140 -> r-141)]]"
+cn "r-141"  "Kruskal.cluster":281
+cn "r-141"  "ui.style":"size: 1px;"
+cn "r-141"  "xy":10.500000,11.500000
+an "r-140"
+cn "r-140"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-127-140 (r-127 -> r-140)]]"
+cn "r-140"  "Kruskal.cluster":281
+cn "r-140"  "ui.style":"size: 1px;"
+cn "r-140"  "xy":10.500000,10.500000
+an "22"
+cn "22"  "Kruskal.cluster":232
+cn "22"  "ui.style":"size: 1px;"
+cn "22"  "xy":1,8
+an "169"
+cn "169"  "Kruskal.cluster":232
+cn "169"  "ui.style":"size: 1px;"
+cn "169"  "xy":12,1
+an "23"
+cn "23"  "Kruskal.cluster":232
+cn "23"  "ui.style":"size: 1px;"
+cn "23"  "xy":1,9
+an "24"
+cn "24"  "Kruskal.cluster":232
+cn "24"  "ui.style":"size: 1px;"
+cn "24"  "xy":1,10
+an "25"
+cn "25"  "Kruskal.cluster":232
+cn "25"  "ui.style":"size: 1px;"
+cn "25"  "xy":1,11
+an "166"
+cn "166"  "Kruskal.cluster":232
+cn "166"  "ui.style":"size: 1px;"
+cn "166"  "xy":11,12
+an "r-147"
+cn "r-147"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-134-147 (r-134 -> r-147)]]"
+cn "r-147"  "Kruskal.cluster":281
+cn "r-147"  "ui.style":"size: 1px;"
+cn "r-147"  "xy":11.500000,4.500000
+an "26"
+cn "26"  "Kruskal.cluster":232
+cn "26"  "ui.style":"size: 1px;"
+cn "26"  "xy":1,12
+an "165"
+cn "165"  "Kruskal.cluster":232
+cn "165"  "ui.style":"size: 1px;"
+cn "165"  "xy":11,11
+an "r-146"
+cn "r-146"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-146-147 (r-146 -> r-147)]]"
+cn "r-146"  "Kruskal.cluster":281
+cn "r-146"  "ui.style":"size: 1px;"
+cn "r-146"  "xy":11.500000,3.500000
+an "27"
+cn "27"  "Kruskal.cluster":232
+cn "27"  "ui.style":"size: 1px;"
+cn "27"  "xy":1,13
+an "168"
+cn "168"  "Kruskal.cluster":72
+cn "168"  "ui.style":"size: 1px;"
+cn "168"  "xy":12,0
+an "r-149"
+cn "r-149"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-149-150 (r-149 -> r-150)]]"
+cn "r-149"  "Kruskal.cluster":281
+cn "r-149"  "ui.style":"size: 1px;"
+cn "r-149"  "xy":11.500000,6.500000
+an "28"
+cn "28"  "Kruskal.cluster":72
+cn "28"  "ui.style":"size: 1px;"
+cn "28"  "xy":2,0
+an "167"
+cn "167"  "Kruskal.cluster":232
+cn "167"  "ui.style":"size: 1px;"
+cn "167"  "xy":11,13
+an "r-148"
+cn "r-148"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-135-148 (r-135 -> r-148)]]"
+cn "r-148"  "Kruskal.cluster":281
+cn "r-148"  "ui.style":"size: 1px;"
+cn "r-148"  "xy":11.500000,5.500000
+an "29"
+cn "29"  "Kruskal.cluster":72
+cn "29"  "ui.style":"size: 1px;"
+cn "29"  "xy":2,1
+an "161"
+cn "161"  "Kruskal.cluster":232
+cn "161"  "ui.style":"size: 1px;"
+cn "161"  "xy":11,7
+an "3"
+cn "3"  "Kruskal.cluster":72
+cn "3"  "ui.style":"size: 1px;"
+cn "3"  "xy":0,3
+an "162"
+cn "162"  "Kruskal.cluster":232
+cn "162"  "ui.style":"size: 1px;"
+cn "162"  "xy":11,8
+an "2"
+cn "2"  "Kruskal.cluster":72
+cn "2"  "ui.style":"size: 1px;"
+cn "2"  "xy":0,2
+an "163"
+cn "163"  "Kruskal.cluster":232
+cn "163"  "ui.style":"size: 1px;"
+cn "163"  "xy":11,9
+an "1"
+cn "1"  "Kruskal.cluster":72
+cn "1"  "ui.style":"size: 1px;"
+cn "1"  "xy":0,1
+an "164"
+cn "164"  "Kruskal.cluster":232
+cn "164"  "ui.style":"size: 1px;"
+cn "164"  "xy":11,10
+an "0"
+cn "0"  "Kruskal.cluster":72
+cn "0"  "ui.style":"size: 1px;"
+cn "0"  "xy":0,0
+an "30"
+cn "30"  "Kruskal.cluster":72
+cn "30"  "ui.style":"size: 1px;"
+cn "30"  "xy":2,2
+an "7"
+cn "7"  "Kruskal.cluster":232
+cn "7"  "ui.style":"size: 1px;"
+cn "7"  "xy":0,7
+an "6"
+cn "6"  "Kruskal.cluster":72
+cn "6"  "ui.style":"size: 1px;"
+cn "6"  "xy":0,6
+an "32"
+cn "32"  "Kruskal.cluster":232
+cn "32"  "ui.style":"size: 1px;"
+cn "32"  "xy":2,4
+an "5"
+cn "5"  "Kruskal.cluster":72
+cn "5"  "ui.style":"size: 1px;"
+cn "5"  "xy":0,5
+an "160"
+cn "160"  "Kruskal.cluster":232
+cn "160"  "ui.style":"size: 1px;"
+cn "160"  "xy":11,6
+an "31"
+cn "31"  "Kruskal.cluster":232
+cn "31"  "ui.style":"size: 1px;"
+cn "31"  "xy":2,3
+an "4"
+cn "4"  "Kruskal.cluster":72
+cn "4"  "ui.style":"size: 1px;"
+cn "4"  "xy":0,4
+an "9"
+cn "9"  "Kruskal.cluster":232
+cn "9"  "ui.style":"size: 1px;"
+cn "9"  "xy":0,9
+an "8"
+cn "8"  "Kruskal.cluster":232
+cn "8"  "ui.style":"size: 1px;"
+cn "8"  "xy":0,8
+an "r-78"
+cn "r-78"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-65-78 (r-65 -> r-78)]]"
+cn "r-78"  "Kruskal.cluster":281
+cn "r-78"  "ui.style":"size: 1px;"
+cn "r-78"  "xy":6.500000,0.500000
+an "r-79"
+cn "r-79"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-66-79 (r-66 -> r-79)]]"
+cn "r-79"  "Kruskal.cluster":281
+cn "r-79"  "ui.style":"size: 1px;"
+cn "r-79"  "xy":6.500000,1.500000
+an "r-74"
+cn "r-74"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-61-74 (r-61 -> r-74)]]"
+cn "r-74"  "Kruskal.cluster":281
+cn "r-74"  "ui.style":"size: 1px;"
+cn "r-74"  "xy":5.500000,9.500000
+an "r-75"
+cn "r-75"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-74-75 (r-74 -> r-75)]]"
+cn "r-75"  "Kruskal.cluster":281
+cn "r-75"  "ui.style":"size: 1px;"
+cn "r-75"  "xy":5.500000,10.500000
+an "19"
+cn "19"  "Kruskal.cluster":72
+cn "19"  "ui.style":"size: 1px;"
+cn "19"  "xy":1,5
+an "r-76"
+cn "r-76"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-75-76 (r-75 -> r-76)]]"
+cn "r-76"  "Kruskal.cluster":281
+cn "r-76"  "ui.style":"size: 1px;"
+cn "r-76"  "xy":5.500000,11.500000
+an "r-77"
+cn "r-77"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-76-77 (r-76 -> r-77)]]"
+cn "r-77"  "Kruskal.cluster":281
+cn "r-77"  "ui.style":"size: 1px;"
+cn "r-77"  "xy":5.500000,12.500000
+an "179"
+cn "179"  "Kruskal.cluster":232
+cn "179"  "ui.style":"size: 1px;"
+cn "179"  "xy":12,11
+an "17"
+cn "17"  "Kruskal.cluster":72
+cn "17"  "ui.style":"size: 1px;"
+cn "17"  "xy":1,3
+an "r-70"
+cn "r-70"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-70-71 (r-70 -> r-71)]]"
+cn "r-70"  "Kruskal.cluster":281
+cn "r-70"  "ui.style":"size: 1px;"
+cn "r-70"  "xy":5.500000,5.500000
+an "178"
+cn "178"  "Kruskal.cluster":232
+cn "178"  "ui.style":"size: 1px;"
+cn "178"  "xy":12,10
+an "18"
+cn "18"  "Kruskal.cluster":72
+cn "18"  "ui.style":"size: 1px;"
+cn "18"  "xy":1,4
+an "r-71"
+cn "r-71"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-71-72 (r-71 -> r-72)]]"
+cn "r-71"  "Kruskal.cluster":281
+cn "r-71"  "ui.style":"size: 1px;"
+cn "r-71"  "xy":5.500000,6.500000
+an "177"
+cn "177"  "Kruskal.cluster":232
+cn "177"  "ui.style":"size: 1px;"
+cn "177"  "xy":12,9
+an "15"
+cn "15"  "Kruskal.cluster":72
+cn "15"  "ui.style":"size: 1px;"
+cn "15"  "xy":1,1
+an "r-72"
+cn "r-72"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-72-73 (r-72 -> r-73)]]"
+cn "r-72"  "Kruskal.cluster":281
+cn "r-72"  "ui.style":"size: 1px;"
+cn "r-72"  "xy":5.500000,7.500000
+an "176"
+cn "176"  "Kruskal.cluster":232
+cn "176"  "ui.style":"size: 1px;"
+cn "176"  "xy":12,8
+an "16"
+cn "16"  "Kruskal.cluster":72
+cn "16"  "ui.style":"size: 1px;"
+cn "16"  "xy":1,2
+an "r-73"
+cn "r-73"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-60-73 (r-60 -> r-73)]]"
+cn "r-73"  "Kruskal.cluster":281
+cn "r-73"  "ui.style":"size: 1px;"
+cn "r-73"  "xy":5.500000,8.500000
+an "13"
+cn "13"  "Kruskal.cluster":232
+cn "13"  "ui.style":"size: 1px;"
+cn "13"  "xy":0,13
+an "14"
+cn "14"  "Kruskal.cluster":72
+cn "14"  "ui.style":"size: 1px;"
+cn "14"  "xy":1,0
+an "11"
+cn "11"  "Kruskal.cluster":232
+cn "11"  "ui.style":"size: 1px;"
+cn "11"  "xy":0,11
+an "12"
+cn "12"  "Kruskal.cluster":232
+cn "12"  "ui.style":"size: 1px;"
+cn "12"  "xy":0,12
+an "170"
+cn "170"  "Kruskal.cluster":232
+cn "170"  "ui.style":"size: 1px;"
+cn "170"  "xy":12,2
+an "21"
+cn "21"  "Kruskal.cluster":232
+cn "21"  "ui.style":"size: 1px;"
+cn "21"  "xy":1,7
+an "171"
+cn "171"  "Kruskal.cluster":232
+cn "171"  "ui.style":"size: 1px;"
+cn "171"  "xy":12,3
+an "20"
+cn "20"  "Kruskal.cluster":72
+cn "20"  "ui.style":"size: 1px;"
+cn "20"  "xy":1,6
+an "174"
+cn "174"  "Kruskal.cluster":232
+cn "174"  "ui.style":"size: 1px;"
+cn "174"  "xy":12,6
+an "175"
+cn "175"  "Kruskal.cluster":232
+cn "175"  "ui.style":"size: 1px;"
+cn "175"  "xy":12,7
+an "172"
+cn "172"  "Kruskal.cluster":232
+cn "172"  "ui.style":"size: 1px;"
+cn "172"  "xy":12,4
+an "173"
+cn "173"  "Kruskal.cluster":232
+cn "173"  "ui.style":"size: 1px;"
+cn "173"  "xy":12,5
+an "r-161"
+cn "r-161"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-148-161 (r-148 -> r-161)]]"
+cn "r-161"  "Kruskal.cluster":281
+cn "r-161"  "ui.style":"size: 1px;"
+cn "r-161"  "xy":12.500000,5.500000
+an "r-160"
+cn "r-160"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-160-161 (r-160 -> r-161)]]"
+cn "r-160"  "Kruskal.cluster":281
+cn "r-160"  "ui.style":"size: 1px;"
+cn "r-160"  "xy":12.500000,4.500000
+an "r-163"
+cn "r-163"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-150-163 (r-150 -> r-163)]]"
+cn "r-163"  "Kruskal.cluster":281
+cn "r-163"  "ui.style":"size: 1px;"
+cn "r-163"  "xy":12.500000,7.500000
+an "r-89"
+cn "r-89"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-76-89 (r-76 -> r-89)]]"
+cn "r-89"  "Kruskal.cluster":281
+cn "r-89"  "ui.style":"size: 1px;"
+cn "r-89"  "xy":6.500000,11.500000
+an "r-162"
+cn "r-162"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-162-163 (r-162 -> r-163)]]"
+cn "r-162"  "Kruskal.cluster":281
+cn "r-162"  "ui.style":"size: 1px;"
+cn "r-162"  "xy":12.500000,6.500000
+an "r-165"
+cn "r-165"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-152-165 (r-152 -> r-165)]]"
+cn "r-165"  "Kruskal.cluster":281
+cn "r-165"  "ui.style":"size: 1px;"
+cn "r-165"  "xy":12.500000,9.500000
+an "r-87"
+cn "r-87"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-74-87 (r-74 -> r-87)]]"
+cn "r-87"  "Kruskal.cluster":281
+cn "r-87"  "ui.style":"size: 1px;"
+cn "r-87"  "xy":6.500000,9.500000
+an "r-164"
+cn "r-164"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-163-164 (r-163 -> r-164)]]"
+cn "r-164"  "Kruskal.cluster":281
+cn "r-164"  "ui.style":"size: 1px;"
+cn "r-164"  "xy":12.500000,8.500000
+an "r-88"
+cn "r-88"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-87-88 (r-87 -> r-88)]]"
+cn "r-88"  "Kruskal.cluster":281
+cn "r-88"  "ui.style":"size: 1px;"
+cn "r-88"  "xy":6.500000,10.500000
+an "r-167"
+cn "r-167"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-154-167 (r-154 -> r-167)]]"
+cn "r-167"  "Kruskal.cluster":281
+cn "r-167"  "ui.style":"size: 1px;"
+cn "r-167"  "xy":12.500000,11.500000
+an "r-85"
+cn "r-85"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-85-86 (r-85 -> r-86)]]"
+cn "r-85"  "Kruskal.cluster":281
+cn "r-85"  "ui.style":"size: 1px;"
+cn "r-85"  "xy":6.500000,7.500000
+an "r-166"
+cn "r-166"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-153-166 (r-153 -> r-166)]]"
+cn "r-166"  "Kruskal.cluster":281
+cn "r-166"  "ui.style":"size: 1px;"
+cn "r-166"  "xy":12.500000,10.500000
+an "r-86"
+cn "r-86"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-73-86 (r-73 -> r-86)]]"
+cn "r-86"  "Kruskal.cluster":281
+cn "r-86"  "ui.style":"size: 1px;"
+cn "r-86"  "xy":6.500000,8.500000
+an "188"
+cn "188"  "Kruskal.cluster":232
+cn "188"  "ui.style":"size: 1px;"
+cn "188"  "xy":13,6
+an "r-83"
+cn "r-83"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-83-84 (r-83 -> r-84)]]"
+cn "r-83"  "Kruskal.cluster":281
+cn "r-83"  "ui.style":"size: 1px;"
+cn "r-83"  "xy":6.500000,5.500000
+an "187"
+cn "187"  "Kruskal.cluster":232
+cn "187"  "ui.style":"size: 1px;"
+cn "187"  "xy":13,5
+an "r-168"
+cn "r-168"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-155-168 (r-155 -> r-168)]]"
+cn "r-168"  "Kruskal.cluster":281
+cn "r-168"  "ui.style":"size: 1px;"
+cn "r-168"  "xy":12.500000,12.500000
+an "r-84"
+cn "r-84"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-71-84 (r-71 -> r-84)]]"
+cn "r-84"  "Kruskal.cluster":281
+cn "r-84"  "ui.style":"size: 1px;"
+cn "r-84"  "xy":6.500000,6.500000
+an "r-81"
+cn "r-81"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-80-81 (r-80 -> r-81)]]"
+cn "r-81"  "Kruskal.cluster":281
+cn "r-81"  "ui.style":"size: 1px;"
+cn "r-81"  "xy":6.500000,3.500000
+an "189"
+cn "189"  "Kruskal.cluster":232
+cn "189"  "ui.style":"size: 1px;"
+cn "189"  "xy":13,7
+an "r-82"
+cn "r-82"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-82-83 (r-82 -> r-83)]]"
+cn "r-82"  "Kruskal.cluster":281
+cn "r-82"  "ui.style":"size: 1px;"
+cn "r-82"  "xy":6.500000,4.500000
+an "r-80"
+cn "r-80"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-67-80 (r-67 -> r-80)]]"
+cn "r-80"  "Kruskal.cluster":281
+cn "r-80"  "ui.style":"size: 1px;"
+cn "r-80"  "xy":6.500000,2.500000
+an "180"
+cn "180"  "Kruskal.cluster":232
+cn "180"  "ui.style":"size: 1px;"
+cn "180"  "xy":12,12
+an "181"
+cn "181"  "Kruskal.cluster":232
+cn "181"  "ui.style":"size: 1px;"
+cn "181"  "xy":12,13
+an "10"
+cn "10"  "Kruskal.cluster":232
+cn "10"  "ui.style":"size: 1px;"
+cn "10"  "xy":0,10
+an "182"
+cn "182"  "Kruskal.cluster":72
+cn "182"  "ui.style":"size: 1px;"
+cn "182"  "xy":13,0
+an "183"
+cn "183"  "Kruskal.cluster":232
+cn "183"  "ui.style":"size: 1px;"
+cn "183"  "xy":13,1
+an "184"
+cn "184"  "Kruskal.cluster":232
+cn "184"  "ui.style":"size: 1px;"
+cn "184"  "xy":13,2
+an "185"
+cn "185"  "Kruskal.cluster":232
+cn "185"  "ui.style":"size: 1px;"
+cn "185"  "xy":13,3
+an "186"
+cn "186"  "Kruskal.cluster":232
+cn "186"  "ui.style":"size: 1px;"
+cn "186"  "xy":13,4
+an "r-119"
+cn "r-119"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-119-120 (r-119 -> r-120)]]"
+cn "r-119"  "Kruskal.cluster":281
+cn "r-119"  "ui.style":"size: 1px;"
+cn "r-119"  "xy":9.500000,2.500000
+an "116"
+cn "116"  "Kruskal.cluster":232
+cn "116"  "ui.style":"size: 1px;"
+cn "116"  "xy":8,4
+an "117"
+cn "117"  "Kruskal.cluster":232
+cn "117"  "ui.style":"size: 1px;"
+cn "117"  "xy":8,5
+an "79"
+cn "79"  "Kruskal.cluster":232
+cn "79"  "ui.style":"size: 1px;"
+cn "79"  "xy":5,9
+an "r-117"
+cn "r-117"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-104-117 (r-104 -> r-117)]]"
+cn "r-117"  "Kruskal.cluster":281
+cn "r-117"  "ui.style":"size: 1px;"
+cn "r-117"  "xy":9.500000,0.500000
+an "114"
+cn "114"  "Kruskal.cluster":232
+cn "114"  "ui.style":"size: 1px;"
+cn "114"  "xy":8,2
+an "78"
+cn "78"  "Kruskal.cluster":232
+cn "78"  "ui.style":"size: 1px;"
+cn "78"  "xy":5,8
+an "r-118"
+cn "r-118"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-117-118 (r-117 -> r-118)]]"
+cn "r-118"  "Kruskal.cluster":281
+cn "r-118"  "ui.style":"size: 1px;"
+cn "r-118"  "xy":9.500000,1.500000
+an "115"
+cn "115"  "Kruskal.cluster":232
+cn "115"  "ui.style":"size: 1px;"
+cn "115"  "xy":8,3
+an "77"
+cn "77"  "Kruskal.cluster":232
+cn "77"  "ui.style":"size: 1px;"
+cn "77"  "xy":5,7
+an "r-115"
+cn "r-115"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-102-115 (r-102 -> r-115)]]"
+cn "r-115"  "Kruskal.cluster":281
+cn "r-115"  "ui.style":"size: 1px;"
+cn "r-115"  "xy":8.500000,11.500000
+an "112"
+cn "112"  "Kruskal.cluster":72
+cn "112"  "ui.style":"size: 1px;"
+cn "112"  "xy":8,0
+an "r-116"
+cn "r-116"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-115-116 (r-115 -> r-116)]]"
+cn "r-116"  "Kruskal.cluster":281
+cn "r-116"  "ui.style":"size: 1px;"
+cn "r-116"  "xy":8.500000,12.500000
+an "113"
+cn "113"  "Kruskal.cluster":232
+cn "113"  "ui.style":"size: 1px;"
+cn "113"  "xy":8,1
+an "r-113"
+cn "r-113"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-112-113 (r-112 -> r-113)]]"
+cn "r-113"  "Kruskal.cluster":281
+cn "r-113"  "ui.style":"size: 1px;"
+cn "r-113"  "xy":8.500000,9.500000
+an "110"
+cn "110"  "Kruskal.cluster":232
+cn "110"  "ui.style":"size: 1px;"
+cn "110"  "xy":7,12
+an "r-114"
+cn "r-114"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-101-114 (r-101 -> r-114)]]"
+cn "r-114"  "Kruskal.cluster":281
+cn "r-114"  "ui.style":"size: 1px;"
+cn "r-114"  "xy":8.500000,10.500000
+an "111"
+cn "111"  "Kruskal.cluster":232
+cn "111"  "ui.style":"size: 1px;"
+cn "111"  "xy":7,13
+an "r-111"
+cn "r-111"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-98-111 (r-98 -> r-111)]]"
+cn "r-111"  "Kruskal.cluster":281
+cn "r-111"  "ui.style":"size: 1px;"
+cn "r-111"  "xy":8.500000,7.500000
+an "r-112"
+cn "r-112"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-99-112 (r-99 -> r-112)]]"
+cn "r-112"  "Kruskal.cluster":281
+cn "r-112"  "ui.style":"size: 1px;"
+cn "r-112"  "xy":8.500000,8.500000
+an "r-110"
+cn "r-110"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-110-111 (r-110 -> r-111)]]"
+cn "r-110"  "Kruskal.cluster":281
+cn "r-110"  "ui.style":"size: 1px;"
+cn "r-110"  "xy":8.500000,6.500000
+an "118"
+cn "118"  "Kruskal.cluster":232
+cn "118"  "ui.style":"size: 1px;"
+cn "118"  "xy":8,6
+an "119"
+cn "119"  "Kruskal.cluster":232
+cn "119"  "ui.style":"size: 1px;"
+cn "119"  "xy":8,7
+an "82"
+cn "82"  "Kruskal.cluster":232
+cn "82"  "ui.style":"size: 1px;"
+cn "82"  "xy":5,12
+an "83"
+cn "83"  "Kruskal.cluster":232
+cn "83"  "ui.style":"size: 1px;"
+cn "83"  "xy":5,13
+an "80"
+cn "80"  "Kruskal.cluster":232
+cn "80"  "ui.style":"size: 1px;"
+cn "80"  "xy":5,10
+an "81"
+cn "81"  "Kruskal.cluster":232
+cn "81"  "ui.style":"size: 1px;"
+cn "81"  "xy":5,11
+an "86"
+cn "86"  "Kruskal.cluster":232
+cn "86"  "ui.style":"size: 1px;"
+cn "86"  "xy":6,2
+an "87"
+cn "87"  "Kruskal.cluster":232
+cn "87"  "ui.style":"size: 1px;"
+cn "87"  "xy":6,3
+an "84"
+cn "84"  "Kruskal.cluster":72
+cn "84"  "ui.style":"size: 1px;"
+cn "84"  "xy":6,0
+an "85"
+cn "85"  "Kruskal.cluster":72
+cn "85"  "ui.style":"size: 1px;"
+cn "85"  "xy":6,1
+an "125"
+cn "125"  "Kruskal.cluster":232
+cn "125"  "ui.style":"size: 1px;"
+cn "125"  "xy":8,13
+an "r-106"
+cn "r-106"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-93-106 (r-93 -> r-106)]]"
+cn "r-106"  "Kruskal.cluster":281
+cn "r-106"  "ui.style":"size: 1px;"
+cn "r-106"  "xy":8.500000,2.500000
+an "67"
+cn "67"  "Kruskal.cluster":232
+cn "67"  "ui.style":"size: 1px;"
+cn "67"  "xy":4,11
+an "126"
+cn "126"  "Kruskal.cluster":72
+cn "126"  "ui.style":"size: 1px;"
+cn "126"  "xy":9,0
+an "r-107"
+cn "r-107"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-94-107 (r-94 -> r-107)]]"
+cn "r-107"  "Kruskal.cluster":281
+cn "r-107"  "ui.style":"size: 1px;"
+cn "r-107"  "xy":8.500000,3.500000
+an "66"
+cn "66"  "Kruskal.cluster":232
+cn "66"  "ui.style":"size: 1px;"
+cn "66"  "xy":4,10
+an "127"
+cn "127"  "Kruskal.cluster":232
+cn "127"  "ui.style":"size: 1px;"
+cn "127"  "xy":9,1
+an "r-108"
+cn "r-108"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-108-109 (r-108 -> r-109)]]"
+cn "r-108"  "Kruskal.cluster":281
+cn "r-108"  "ui.style":"size: 1px;"
+cn "r-108"  "xy":8.500000,4.500000
+an "69"
+cn "69"  "Kruskal.cluster":232
+cn "69"  "ui.style":"size: 1px;"
+cn "69"  "xy":4,13
+an "128"
+cn "128"  "Kruskal.cluster":232
+cn "128"  "ui.style":"size: 1px;"
+cn "128"  "xy":9,2
+an "r-109"
+cn "r-109"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-96-109 (r-96 -> r-109)]]"
+cn "r-109"  "Kruskal.cluster":281
+cn "r-109"  "ui.style":"size: 1px;"
+cn "r-109"  "xy":8.500000,5.500000
+an "68"
+cn "68"  "Kruskal.cluster":232
+cn "68"  "ui.style":"size: 1px;"
+cn "68"  "xy":4,12
+an "121"
+cn "121"  "Kruskal.cluster":232
+cn "121"  "ui.style":"size: 1px;"
+cn "121"  "xy":8,9
+an "r-102"
+cn "r-102"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-89-102 (r-89 -> r-102)]]"
+cn "r-102"  "Kruskal.cluster":281
+cn "r-102"  "ui.style":"size: 1px;"
+cn "r-102"  "xy":7.500000,11.500000
+an "122"
+cn "122"  "Kruskal.cluster":232
+cn "122"  "ui.style":"size: 1px;"
+cn "122"  "xy":8,10
+an "r-103"
+cn "r-103"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-102-103 (r-102 -> r-103)]]"
+cn "r-103"  "Kruskal.cluster":281
+cn "r-103"  "ui.style":"size: 1px;"
+cn "r-103"  "xy":7.500000,12.500000
+an "123"
+cn "123"  "Kruskal.cluster":232
+cn "123"  "ui.style":"size: 1px;"
+cn "123"  "xy":8,11
+an "r-104"
+cn "r-104"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-91-104 (r-91 -> r-104)]]"
+cn "r-104"  "Kruskal.cluster":281
+cn "r-104"  "ui.style":"size: 1px;"
+cn "r-104"  "xy":8.500000,0.500000
+an "124"
+cn "124"  "Kruskal.cluster":232
+cn "124"  "ui.style":"size: 1px;"
+cn "124"  "xy":8,12
+an "r-105"
+cn "r-105"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-104-105 (r-104 -> r-105)]]"
+cn "r-105"  "Kruskal.cluster":281
+cn "r-105"  "ui.style":"size: 1px;"
+cn "r-105"  "xy":8.500000,1.500000
+an "r-100"
+cn "r-100"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-87-100 (r-87 -> r-100)]]"
+cn "r-100"  "Kruskal.cluster":281
+cn "r-100"  "ui.style":"size: 1px;"
+cn "r-100"  "xy":7.500000,9.500000
+an "r-101"
+cn "r-101"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-88-101 (r-88 -> r-101)]]"
+cn "r-101"  "Kruskal.cluster":281
+cn "r-101"  "ui.style":"size: 1px;"
+cn "r-101"  "xy":7.500000,10.500000
+an "129"
+cn "129"  "Kruskal.cluster":232
+cn "129"  "ui.style":"size: 1px;"
+cn "129"  "xy":9,3
+an "70"
+cn "70"  "Kruskal.cluster":72
+cn "70"  "ui.style":"size: 1px;"
+cn "70"  "xy":5,0
+an "120"
+cn "120"  "Kruskal.cluster":232
+cn "120"  "ui.style":"size: 1px;"
+cn "120"  "xy":8,8
+an "71"
+cn "71"  "Kruskal.cluster":72
+cn "71"  "ui.style":"size: 1px;"
+cn "71"  "xy":5,1
+an "72"
+cn "72"  "Kruskal.cluster":72
+cn "72"  "ui.style":"size: 1px;"
+cn "72"  "xy":5,2
+an "73"
+cn "73"  "Kruskal.cluster":232
+cn "73"  "ui.style":"size: 1px;"
+cn "73"  "xy":5,3
+an "74"
+cn "74"  "Kruskal.cluster":232
+cn "74"  "ui.style":"size: 1px;"
+cn "74"  "xy":5,4
+an "75"
+cn "75"  "Kruskal.cluster":232
+cn "75"  "ui.style":"size: 1px;"
+cn "75"  "xy":5,5
+an "76"
+cn "76"  "Kruskal.cluster":232
+cn "76"  "ui.style":"size: 1px;"
+cn "76"  "xy":5,6
+an "r-137"
+cn "r-137"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-124-137 (r-124 -> r-137)]]"
+cn "r-137"  "Kruskal.cluster":281
+cn "r-137"  "ui.style":"size: 1px;"
+cn "r-137"  "xy":10.500000,7.500000
+an "134"
+cn "134"  "Kruskal.cluster":232
+cn "134"  "ui.style":"size: 1px;"
+cn "134"  "xy":9,8
+an "r-138"
+cn "r-138"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-137-138 (r-137 -> r-138)]]"
+cn "r-138"  "Kruskal.cluster":281
+cn "r-138"  "ui.style":"size: 1px;"
+cn "r-138"  "xy":10.500000,8.500000
+an "135"
+cn "135"  "Kruskal.cluster":232
+cn "135"  "ui.style":"size: 1px;"
+cn "135"  "xy":9,9
+an "r-135"
+cn "r-135"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-135-136 (r-135 -> r-136)]]"
+cn "r-135"  "Kruskal.cluster":281
+cn "r-135"  "ui.style":"size: 1px;"
+cn "r-135"  "xy":10.500000,5.500000
+an "132"
+cn "132"  "Kruskal.cluster":232
+cn "132"  "ui.style":"size: 1px;"
+cn "132"  "xy":9,6
+an "r-136"
+cn "r-136"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-136-137 (r-136 -> r-137)]]"
+cn "r-136"  "Kruskal.cluster":281
+cn "r-136"  "ui.style":"size: 1px;"
+cn "r-136"  "xy":10.500000,6.500000
+an "133"
+cn "133"  "Kruskal.cluster":232
+cn "133"  "ui.style":"size: 1px;"
+cn "133"  "xy":9,7
+an "59"
+cn "59"  "Kruskal.cluster":232
+cn "59"  "ui.style":"size: 1px;"
+cn "59"  "xy":4,3
+an "138"
+cn "138"  "Kruskal.cluster":232
+cn "138"  "ui.style":"size: 1px;"
+cn "138"  "xy":9,12
+an "58"
+cn "58"  "Kruskal.cluster":72
+cn "58"  "ui.style":"size: 1px;"
+cn "58"  "xy":4,2
+an "139"
+cn "139"  "Kruskal.cluster":232
+cn "139"  "ui.style":"size: 1px;"
+cn "139"  "xy":9,13
+an "57"
+cn "57"  "Kruskal.cluster":72
+cn "57"  "ui.style":"size: 1px;"
+cn "57"  "xy":4,1
+an "r-139"
+cn "r-139"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-139-140 (r-139 -> r-140)]]"
+cn "r-139"  "Kruskal.cluster":281
+cn "r-139"  "ui.style":"size: 1px;"
+cn "r-139"  "xy":10.500000,9.500000
+an "136"
+cn "136"  "Kruskal.cluster":232
+cn "136"  "ui.style":"size: 1px;"
+cn "136"  "xy":9,10
+an "56"
+cn "56"  "Kruskal.cluster":72
+cn "56"  "ui.style":"size: 1px;"
+cn "56"  "xy":4,0
+an "137"
+cn "137"  "Kruskal.cluster":232
+cn "137"  "ui.style":"size: 1px;"
+cn "137"  "xy":9,11
+an "55"
+cn "55"  "Kruskal.cluster":232
+cn "55"  "ui.style":"size: 1px;"
+cn "55"  "xy":3,13
+an "r-130"
+cn "r-130"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-117-130 (r-117 -> r-130)]]"
+cn "r-130"  "Kruskal.cluster":281
+cn "r-130"  "ui.style":"size: 1px;"
+cn "r-130"  "xy":10.500000,0.500000
+an "r-133"
+cn "r-133"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-120-133 (r-120 -> r-133)]]"
+cn "r-133"  "Kruskal.cluster":281
+cn "r-133"  "ui.style":"size: 1px;"
+cn "r-133"  "xy":10.500000,3.500000
+an "r-134"
+cn "r-134"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-121-134 (r-121 -> r-134)]]"
+cn "r-134"  "Kruskal.cluster":281
+cn "r-134"  "ui.style":"size: 1px;"
+cn "r-134"  "xy":10.500000,4.500000
+an "r-131"
+cn "r-131"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-118-131 (r-118 -> r-131)]]"
+cn "r-131"  "Kruskal.cluster":281
+cn "r-131"  "ui.style":"size: 1px;"
+cn "r-131"  "xy":10.500000,1.500000
+an "r-132"
+cn "r-132"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-132-133 (r-132 -> r-133)]]"
+cn "r-132"  "Kruskal.cluster":281
+cn "r-132"  "ui.style":"size: 1px;"
+cn "r-132"  "xy":10.500000,2.500000
+an "64"
+cn "64"  "Kruskal.cluster":232
+cn "64"  "ui.style":"size: 1px;"
+cn "64"  "xy":4,8
+an "65"
+cn "65"  "Kruskal.cluster":232
+cn "65"  "ui.style":"size: 1px;"
+cn "65"  "xy":4,9
+an "62"
+cn "62"  "Kruskal.cluster":232
+cn "62"  "ui.style":"size: 1px;"
+cn "62"  "xy":4,6
+an "63"
+cn "63"  "Kruskal.cluster":232
+cn "63"  "ui.style":"size: 1px;"
+cn "63"  "xy":4,7
+an "131"
+cn "131"  "Kruskal.cluster":232
+cn "131"  "ui.style":"size: 1px;"
+cn "131"  "xy":9,5
+an "60"
+cn "60"  "Kruskal.cluster":232
+cn "60"  "ui.style":"size: 1px;"
+cn "60"  "xy":4,4
+an "130"
+cn "130"  "Kruskal.cluster":232
+cn "130"  "ui.style":"size: 1px;"
+cn "130"  "xy":9,4
+an "61"
+cn "61"  "Kruskal.cluster":232
+cn "61"  "ui.style":"size: 1px;"
+cn "61"  "xy":4,5
+an "143"
+cn "143"  "Kruskal.cluster":232
+cn "143"  "ui.style":"size: 1px;"
+cn "143"  "xy":10,3
+an "r-124"
+cn "r-124"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-111-124 (r-111 -> r-124)]]"
+cn "r-124"  "Kruskal.cluster":281
+cn "r-124"  "ui.style":"size: 1px;"
+cn "r-124"  "xy":9.500000,7.500000
+an "49"
+cn "49"  "Kruskal.cluster":232
+cn "49"  "ui.style":"size: 1px;"
+cn "49"  "xy":3,7
+an "144"
+cn "144"  "Kruskal.cluster":232
+cn "144"  "ui.style":"size: 1px;"
+cn "144"  "xy":10,4
+an "r-125"
+cn "r-125"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-124-125 (r-124 -> r-125)]]"
+cn "r-125"  "Kruskal.cluster":281
+cn "r-125"  "ui.style":"size: 1px;"
+cn "r-125"  "xy":9.500000,8.500000
+an "48"
+cn "48"  "Kruskal.cluster":232
+cn "48"  "ui.style":"size: 1px;"
+cn "48"  "xy":3,6
+an "145"
+cn "145"  "Kruskal.cluster":232
+cn "145"  "ui.style":"size: 1px;"
+cn "145"  "xy":10,5
+an "r-126"
+cn "r-126"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-126-127 (r-126 -> r-127)]]"
+cn "r-126"  "Kruskal.cluster":281
+cn "r-126"  "ui.style":"size: 1px;"
+cn "r-126"  "xy":9.500000,9.500000
+an "146"
+cn "146"  "Kruskal.cluster":232
+cn "146"  "ui.style":"size: 1px;"
+cn "146"  "xy":10,6
+an "r-127"
+cn "r-127"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-114-127 (r-114 -> r-127)]]"
+cn "r-127"  "Kruskal.cluster":281
+cn "r-127"  "ui.style":"size: 1px;"
+cn "r-127"  "xy":9.500000,10.500000
+an "147"
+cn "147"  "Kruskal.cluster":232
+cn "147"  "ui.style":"size: 1px;"
+cn "147"  "xy":10,7
+an "r-128"
+cn "r-128"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-115-128 (r-115 -> r-128)]]"
+cn "r-128"  "Kruskal.cluster":281
+cn "r-128"  "ui.style":"size: 1px;"
+cn "r-128"  "xy":9.500000,11.500000
+an "45"
+cn "45"  "Kruskal.cluster":232
+cn "45"  "ui.style":"size: 1px;"
+cn "45"  "xy":3,3
+an "148"
+cn "148"  "Kruskal.cluster":232
+cn "148"  "ui.style":"size: 1px;"
+cn "148"  "xy":10,8
+an "r-129"
+cn "r-129"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-128-129 (r-128 -> r-129)]]"
+cn "r-129"  "Kruskal.cluster":281
+cn "r-129"  "ui.style":"size: 1px;"
+cn "r-129"  "xy":9.500000,12.500000
+an "44"
+cn "44"  "Kruskal.cluster":72
+cn "44"  "ui.style":"size: 1px;"
+cn "44"  "xy":3,2
+an "149"
+cn "149"  "Kruskal.cluster":232
+cn "149"  "ui.style":"size: 1px;"
+cn "149"  "xy":10,9
+an "47"
+cn "47"  "Kruskal.cluster":232
+cn "47"  "ui.style":"size: 1px;"
+cn "47"  "xy":3,5
+an "46"
+cn "46"  "Kruskal.cluster":232
+cn "46"  "ui.style":"size: 1px;"
+cn "46"  "xy":3,4
+an "r-120"
+cn "r-120"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-107-120 (r-107 -> r-120)]]"
+cn "r-120"  "Kruskal.cluster":281
+cn "r-120"  "ui.style":"size: 1px;"
+cn "r-120"  "xy":9.500000,3.500000
+an "r-121"
+cn "r-121"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-120-121 (r-120 -> r-121)]]"
+cn "r-121"  "Kruskal.cluster":281
+cn "r-121"  "ui.style":"size: 1px;"
+cn "r-121"  "xy":9.500000,4.500000
+an "r-122"
+cn "r-122"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-122-123 (r-122 -> r-123)]]"
+cn "r-122"  "Kruskal.cluster":281
+cn "r-122"  "ui.style":"size: 1px;"
+cn "r-122"  "xy":9.500000,5.500000
+an "r-123"
+cn "r-123"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-123-124 (r-123 -> r-124)]]"
+cn "r-123"  "Kruskal.cluster":281
+cn "r-123"  "ui.style":"size: 1px;"
+cn "r-123"  "xy":9.500000,6.500000
+an "51"
+cn "51"  "Kruskal.cluster":232
+cn "51"  "ui.style":"size: 1px;"
+cn "51"  "xy":3,9
+an "52"
+cn "52"  "Kruskal.cluster":232
+cn "52"  "ui.style":"size: 1px;"
+cn "52"  "xy":3,10
+an "53"
+cn "53"  "Kruskal.cluster":232
+cn "53"  "ui.style":"size: 1px;"
+cn "53"  "xy":3,11
+an "54"
+cn "54"  "Kruskal.cluster":232
+cn "54"  "ui.style":"size: 1px;"
+cn "54"  "xy":3,12
+an "140"
+cn "140"  "Kruskal.cluster":72
+cn "140"  "ui.style":"size: 1px;"
+cn "140"  "xy":10,0
+an "142"
+cn "142"  "Kruskal.cluster":232
+cn "142"  "ui.style":"size: 1px;"
+cn "142"  "xy":10,2
+an "141"
+cn "141"  "Kruskal.cluster":232
+cn "141"  "ui.style":"size: 1px;"
+cn "141"  "xy":10,1
+an "50"
+cn "50"  "Kruskal.cluster":232
+cn "50"  "ui.style":"size: 1px;"
+cn "50"  "xy":3,8
+an "r-17"
+cn "r-17"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-17-18 (r-17 -> r-18)]]"
+cn "r-17"  "Kruskal.cluster":281
+cn "r-17"  "ui.style":"size: 1px;"
+cn "r-17"  "xy":1.500000,4.500000
+an "r-16"
+cn "r-16"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-16-17 (r-16 -> r-17)]]"
+cn "r-16"  "Kruskal.cluster":281
+cn "r-16"  "ui.style":"size: 1px;"
+cn "r-16"  "xy":1.500000,3.500000
+an "r-19"
+cn "r-19"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-6-19 (r-6 -> r-19)]]"
+cn "r-19"  "Kruskal.cluster":281
+cn "r-19"  "ui.style":"size: 1px;"
+cn "r-19"  "xy":1.500000,6.500000
+an "r-18"
+cn "r-18"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-18-19 (r-18 -> r-19)]]"
+cn "r-18"  "Kruskal.cluster":281
+cn "r-18"  "ui.style":"size: 1px;"
+cn "r-18"  "xy":1.500000,5.500000
+an "r-23"
+cn "r-23"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-22-23 (r-22 -> r-23)]]"
+cn "r-23"  "Kruskal.cluster":281
+cn "r-23"  "ui.style":"size: 1px;"
+cn "r-23"  "xy":1.500000,10.500000
+an "r-24"
+cn "r-24"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-23-24 (r-23 -> r-24)]]"
+cn "r-24"  "Kruskal.cluster":281
+cn "r-24"  "ui.style":"size: 1px;"
+cn "r-24"  "xy":1.500000,11.500000
+an "r-25"
+cn "r-25"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-24-25 (r-24 -> r-25)]]"
+cn "r-25"  "Kruskal.cluster":281
+cn "r-25"  "ui.style":"size: 1px;"
+cn "r-25"  "xy":1.500000,12.500000
+an "r-26"
+cn "r-26"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-26-27 (r-26 -> r-27)]]"
+cn "r-26"  "Kruskal.cluster":281
+cn "r-26"  "ui.style":"size: 1px;"
+cn "r-26"  "xy":2.500000,0.500000
+an "r-20"
+cn "r-20"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-19-20 (r-19 -> r-20)]]"
+cn "r-20"  "Kruskal.cluster":281
+cn "r-20"  "ui.style":"size: 1px;"
+cn "r-20"  "xy":1.500000,7.500000
+an "r-21"
+cn "r-21"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-20-21 (r-20 -> r-21)]]"
+cn "r-21"  "Kruskal.cluster":281
+cn "r-21"  "ui.style":"size: 1px;"
+cn "r-21"  "xy":1.500000,8.500000
+an "r-22"
+cn "r-22"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-21-22 (r-21 -> r-22)]]"
+cn "r-22"  "Kruskal.cluster":281
+cn "r-22"  "ui.style":"size: 1px;"
+cn "r-22"  "xy":1.500000,9.500000
+an "r-14"
+cn "r-14"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-14-15 (r-14 -> r-15)]]"
+cn "r-14"  "Kruskal.cluster":281
+cn "r-14"  "ui.style":"size: 1px;"
+cn "r-14"  "xy":1.500000,1.500000
+an "r-15"
+cn "r-15"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-15-16 (r-15 -> r-16)]]"
+cn "r-15"  "Kruskal.cluster":281
+cn "r-15"  "ui.style":"size: 1px;"
+cn "r-15"  "xy":1.500000,2.500000
+an "r-12"
+cn "r-12"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-11-12 (r-11 -> r-12)]]"
+cn "r-12"  "Kruskal.cluster":281
+cn "r-12"  "ui.style":"size: 1px;"
+cn "r-12"  "xy":0.500000,12.500000
+an "r-13"
+cn "r-13"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-13-14 (r-13 -> r-14)]]"
+cn "r-13"  "Kruskal.cluster":281
+cn "r-13"  "ui.style":"size: 1px;"
+cn "r-13"  "xy":1.500000,0.500000
+an "r-10"
+cn "r-10"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-10-23 (r-10 -> r-23)]]"
+cn "r-10"  "Kruskal.cluster":281
+cn "r-10"  "ui.style":"size: 1px;"
+cn "r-10"  "xy":0.500000,10.500000
+an "r-11"
+cn "r-11"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-10-11 (r-10 -> r-11)]]"
+cn "r-11"  "Kruskal.cluster":281
+cn "r-11"  "ui.style":"size: 1px;"
+cn "r-11"  "xy":0.500000,11.500000
+an "109"
+cn "109"  "Kruskal.cluster":232
+cn "109"  "ui.style":"size: 1px;"
+cn "109"  "xy":7,11
+an "108"
+cn "108"  "Kruskal.cluster":232
+cn "108"  "ui.style":"size: 1px;"
+cn "108"  "xy":7,10
+an "107"
+cn "107"  "Kruskal.cluster":232
+cn "107"  "ui.style":"size: 1px;"
+cn "107"  "xy":7,9
+an "106"
+cn "106"  "Kruskal.cluster":232
+cn "106"  "ui.style":"size: 1px;"
+cn "106"  "xy":7,8
+an "105"
+cn "105"  "Kruskal.cluster":232
+cn "105"  "ui.style":"size: 1px;"
+cn "105"  "xy":7,7
+an "104"
+cn "104"  "Kruskal.cluster":232
+cn "104"  "ui.style":"size: 1px;"
+cn "104"  "xy":7,6
+an "103"
+cn "103"  "Kruskal.cluster":232
+cn "103"  "ui.style":"size: 1px;"
+cn "103"  "xy":7,5
+an "102"
+cn "102"  "Kruskal.cluster":232
+cn "102"  "ui.style":"size: 1px;"
+cn "102"  "xy":7,4
+an "99"
+cn "99"  "Kruskal.cluster":72
+cn "99"  "ui.style":"size: 1px;"
+cn "99"  "xy":7,1
+an "101"
+cn "101"  "Kruskal.cluster":232
+cn "101"  "ui.style":"size: 1px;"
+cn "101"  "xy":7,3
+an "100"
+cn "100"  "Kruskal.cluster":232
+cn "100"  "ui.style":"size: 1px;"
+cn "100"  "xy":7,2
+an "98"
+cn "98"  "Kruskal.cluster":72
+cn "98"  "ui.style":"size: 1px;"
+cn "98"  "xy":7,0
+an "97"
+cn "97"  "Kruskal.cluster":232
+cn "97"  "ui.style":"size: 1px;"
+cn "97"  "xy":6,13
+an "96"
+cn "96"  "Kruskal.cluster":232
+cn "96"  "ui.style":"size: 1px;"
+cn "96"  "xy":6,12
+an "95"
+cn "95"  "Kruskal.cluster":232
+cn "95"  "ui.style":"size: 1px;"
+cn "95"  "xy":6,11
+an "94"
+cn "94"  "Kruskal.cluster":232
+cn "94"  "ui.style":"size: 1px;"
+cn "94"  "xy":6,10
+an "93"
+cn "93"  "Kruskal.cluster":232
+cn "93"  "ui.style":"size: 1px;"
+cn "93"  "xy":6,9
+an "92"
+cn "92"  "Kruskal.cluster":232
+cn "92"  "ui.style":"size: 1px;"
+cn "92"  "xy":6,8
+an "91"
+cn "91"  "Kruskal.cluster":232
+cn "91"  "ui.style":"size: 1px;"
+cn "91"  "xy":6,7
+an "90"
+cn "90"  "Kruskal.cluster":232
+cn "90"  "ui.style":"size: 1px;"
+cn "90"  "xy":6,6
+an "88"
+cn "88"  "Kruskal.cluster":232
+cn "88"  "ui.style":"size: 1px;"
+cn "88"  "xy":6,4
+an "89"
+cn "89"  "Kruskal.cluster":232
+cn "89"  "ui.style":"size: 1px;"
+cn "89"  "xy":6,5
+an "195"
+cn "195"  "Kruskal.cluster":232
+cn "195"  "ui.style":"size: 1px;"
+cn "195"  "xy":13,13
+an "194"
+cn "194"  "Kruskal.cluster":232
+cn "194"  "ui.style":"size: 1px;"
+cn "194"  "xy":13,12
+an "191"
+cn "191"  "Kruskal.cluster":232
+cn "191"  "ui.style":"size: 1px;"
+cn "191"  "xy":13,9
+an "190"
+cn "190"  "Kruskal.cluster":232
+cn "190"  "ui.style":"size: 1px;"
+cn "190"  "xy":13,8
+an "193"
+cn "193"  "Kruskal.cluster":232
+cn "193"  "ui.style":"size: 1px;"
+cn "193"  "xy":13,11
+an "192"
+cn "192"  "Kruskal.cluster":232
+cn "192"  "ui.style":"size: 1px;"
+cn "192"  "xy":13,10
+an "r-60"
+cn "r-60"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-60-61 (r-60 -> r-61)]]"
+cn "r-60"  "Kruskal.cluster":281
+cn "r-60"  "ui.style":"size: 1px;"
+cn "r-60"  "xy":4.500000,8.500000
+an "r-62"
+cn "r-62"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-61-62 (r-61 -> r-62)]]"
+cn "r-62"  "Kruskal.cluster":281
+cn "r-62"  "ui.style":"size: 1px;"
+cn "r-62"  "xy":4.500000,10.500000
+an "r-61"
+cn "r-61"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-48-61 (r-48 -> r-61)]]"
+cn "r-61"  "Kruskal.cluster":281
+cn "r-61"  "ui.style":"size: 1px;"
+cn "r-61"  "xy":4.500000,9.500000
+an "r-68"
+cn "r-68"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-67-68 (r-67 -> r-68)]]"
+cn "r-68"  "Kruskal.cluster":281
+cn "r-68"  "ui.style":"size: 1px;"
+cn "r-68"  "xy":5.500000,3.500000
+an "r-67"
+cn "r-67"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-54-67 (r-54 -> r-67)]]"
+cn "r-67"  "Kruskal.cluster":281
+cn "r-67"  "ui.style":"size: 1px;"
+cn "r-67"  "xy":5.500000,2.500000
+an "r-69"
+cn "r-69"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-56-69 (r-56 -> r-69)]]"
+cn "r-69"  "Kruskal.cluster":281
+cn "r-69"  "ui.style":"size: 1px;"
+cn "r-69"  "xy":5.500000,4.500000
+an "r-64"
+cn "r-64"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-64-77 (r-64 -> r-77)]]"
+cn "r-64"  "Kruskal.cluster":281
+cn "r-64"  "ui.style":"size: 1px;"
+cn "r-64"  "xy":4.500000,12.500000
+an "r-63"
+cn "r-63"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-63-76 (r-63 -> r-76)]]"
+cn "r-63"  "Kruskal.cluster":281
+cn "r-63"  "ui.style":"size: 1px;"
+cn "r-63"  "xy":4.500000,11.500000
+an "r-66"
+cn "r-66"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-66-67 (r-66 -> r-67)]]"
+cn "r-66"  "Kruskal.cluster":281
+cn "r-66"  "ui.style":"size: 1px;"
+cn "r-66"  "xy":5.500000,1.500000
+an "r-65"
+cn "r-65"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-52-65 (r-52 -> r-65)]]"
+cn "r-65"  "Kruskal.cluster":281
+cn "r-65"  "ui.style":"size: 1px;"
+cn "r-65"  "xy":5.500000,0.500000
+an "r-49"
+cn "r-49"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-48-49 (r-48 -> r-49)]]"
+cn "r-49"  "Kruskal.cluster":281
+cn "r-49"  "ui.style":"size: 1px;"
+cn "r-49"  "xy":3.500000,10.500000
+an "r-51"
+cn "r-51"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-50-51 (r-50 -> r-51)]]"
+cn "r-51"  "Kruskal.cluster":281
+cn "r-51"  "ui.style":"size: 1px;"
+cn "r-51"  "xy":3.500000,12.500000
+an "r-50"
+cn "r-50"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-49-50 (r-49 -> r-50)]]"
+cn "r-50"  "Kruskal.cluster":281
+cn "r-50"  "ui.style":"size: 1px;"
+cn "r-50"  "xy":3.500000,11.500000
+an "r-59"
+cn "r-59"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-58-59 (r-58 -> r-59)]]"
+cn "r-59"  "Kruskal.cluster":281
+cn "r-59"  "ui.style":"size: 1px;"
+cn "r-59"  "xy":4.500000,7.500000
+an "r-58"
+cn "r-58"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-45-58 (r-45 -> r-58)]]"
+cn "r-58"  "Kruskal.cluster":281
+cn "r-58"  "ui.style":"size: 1px;"
+cn "r-58"  "xy":4.500000,6.500000
+an "r-57"
+cn "r-57"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-44-57 (r-44 -> r-57)]]"
+cn "r-57"  "Kruskal.cluster":281
+cn "r-57"  "ui.style":"size: 1px;"
+cn "r-57"  "xy":4.500000,5.500000
+an "r-56"
+cn "r-56"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-56-57 (r-56 -> r-57)]]"
+cn "r-56"  "Kruskal.cluster":281
+cn "r-56"  "ui.style":"size: 1px;"
+cn "r-56"  "xy":4.500000,4.500000
+an "r-55"
+cn "r-55"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-55-56 (r-55 -> r-56)]]"
+cn "r-55"  "Kruskal.cluster":281
+cn "r-55"  "ui.style":"size: 1px;"
+cn "r-55"  "xy":4.500000,3.500000
+an "r-54"
+cn "r-54"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-41-54 (r-41 -> r-54)]]"
+cn "r-54"  "Kruskal.cluster":281
+cn "r-54"  "ui.style":"size: 1px;"
+cn "r-54"  "xy":4.500000,2.500000
+an "r-53"
+cn "r-53"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-40-53 (r-40 -> r-53)]]"
+cn "r-53"  "Kruskal.cluster":281
+cn "r-53"  "ui.style":"size: 1px;"
+cn "r-53"  "xy":4.500000,1.500000
+an "r-52"
+cn "r-52"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-39-52 (r-39 -> r-52)]]"
+cn "r-52"  "Kruskal.cluster":281
+cn "r-52"  "ui.style":"size: 1px;"
+cn "r-52"  "xy":4.500000,0.500000
+an "r-38"
+cn "r-38"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-37-38 (r-37 -> r-38)]]"
+cn "r-38"  "Kruskal.cluster":281
+cn "r-38"  "ui.style":"size: 1px;"
+cn "r-38"  "xy":2.500000,12.500000
+an "r-39"
+cn "r-39"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-39-40 (r-39 -> r-40)]]"
+cn "r-39"  "Kruskal.cluster":281
+cn "r-39"  "ui.style":"size: 1px;"
+cn "r-39"  "xy":3.500000,0.500000
+an "r-40"
+cn "r-40"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-40-41 (r-40 -> r-41)]]"
+cn "r-40"  "Kruskal.cluster":281
+cn "r-40"  "ui.style":"size: 1px;"
+cn "r-40"  "xy":3.500000,1.500000
+an "r-42"
+cn "r-42"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-42-43 (r-42 -> r-43)]]"
+cn "r-42"  "Kruskal.cluster":281
+cn "r-42"  "ui.style":"size: 1px;"
+cn "r-42"  "xy":3.500000,3.500000
+an "r-41"
+cn "r-41"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-28-41 (r-28 -> r-41)]]"
+cn "r-41"  "Kruskal.cluster":281
+cn "r-41"  "ui.style":"size: 1px;"
+cn "r-41"  "xy":3.500000,2.500000
+an "r-44"
+cn "r-44"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-31-44 (r-31 -> r-44)]]"
+cn "r-44"  "Kruskal.cluster":281
+cn "r-44"  "ui.style":"size: 1px;"
+cn "r-44"  "xy":3.500000,5.500000
+an "r-43"
+cn "r-43"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-30-43 (r-30 -> r-43)]]"
+cn "r-43"  "Kruskal.cluster":281
+cn "r-43"  "ui.style":"size: 1px;"
+cn "r-43"  "xy":3.500000,4.500000
+an "r-46"
+cn "r-46"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-33-46 (r-33 -> r-46)]]"
+cn "r-46"  "Kruskal.cluster":281
+cn "r-46"  "ui.style":"size: 1px;"
+cn "r-46"  "xy":3.500000,7.500000
+an "r-45"
+cn "r-45"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-32-45 (r-32 -> r-45)]]"
+cn "r-45"  "Kruskal.cluster":281
+cn "r-45"  "ui.style":"size: 1px;"
+cn "r-45"  "xy":3.500000,6.500000
+an "r-48"
+cn "r-48"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-35-48 (r-35 -> r-48)]]"
+cn "r-48"  "Kruskal.cluster":281
+cn "r-48"  "ui.style":"size: 1px;"
+cn "r-48"  "xy":3.500000,9.500000
+an "r-47"
+cn "r-47"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-34-47 (r-34 -> r-47)]]"
+cn "r-47"  "Kruskal.cluster":281
+cn "r-47"  "ui.style":"size: 1px;"
+cn "r-47"  "xy":3.500000,8.500000
+an "r-29"
+cn "r-29"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-28-29 (r-28 -> r-29)]]"
+cn "r-29"  "Kruskal.cluster":281
+cn "r-29"  "ui.style":"size: 1px;"
+cn "r-29"  "xy":2.500000,3.500000
+an "r-27"
+cn "r-27"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-14-27 (r-14 -> r-27)]]"
+cn "r-27"  "Kruskal.cluster":281
+cn "r-27"  "ui.style":"size: 1px;"
+cn "r-27"  "xy":2.500000,1.500000
+an "r-28"
+cn "r-28"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-15-28 (r-15 -> r-28)]]"
+cn "r-28"  "Kruskal.cluster":281
+cn "r-28"  "ui.style":"size: 1px;"
+cn "r-28"  "xy":2.500000,2.500000
+an "r-0"
+cn "r-0"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-0-1 (r-0 -> r-1)]]"
+cn "r-0"  "Kruskal.cluster":281
+cn "r-0"  "ui.style":"size: 1px;"
+cn "r-0"  "xy":0.500000,0.500000
+an "r-1"
+cn "r-1"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-1-2 (r-1 -> r-2)]]"
+cn "r-1"  "Kruskal.cluster":281
+cn "r-1"  "ui.style":"size: 1px;"
+cn "r-1"  "xy":0.500000,1.500000
+an "r-2"
+cn "r-2"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-2-15 (r-2 -> r-15)]]"
+cn "r-2"  "Kruskal.cluster":281
+cn "r-2"  "ui.style":"size: 1px;"
+cn "r-2"  "xy":0.500000,2.500000
+an "r-33"
+cn "r-33"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-20-33 (r-20 -> r-33)]]"
+cn "r-33"  "Kruskal.cluster":281
+cn "r-33"  "ui.style":"size: 1px;"
+cn "r-33"  "xy":2.500000,7.500000
+an "r-3"
+cn "r-3"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-2-3 (r-2 -> r-3)]]"
+cn "r-3"  "Kruskal.cluster":281
+cn "r-3"  "ui.style":"size: 1px;"
+cn "r-3"  "xy":0.500000,3.500000
+an "r-32"
+cn "r-32"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-32-33 (r-32 -> r-33)]]"
+cn "r-32"  "Kruskal.cluster":281
+cn "r-32"  "ui.style":"size: 1px;"
+cn "r-32"  "xy":2.500000,6.500000
+an "r-4"
+cn "r-4"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-4-5 (r-4 -> r-5)]]"
+cn "r-4"  "Kruskal.cluster":281
+cn "r-4"  "ui.style":"size: 1px;"
+cn "r-4"  "xy":0.500000,4.500000
+an "r-31"
+cn "r-31"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-31-32 (r-31 -> r-32)]]"
+cn "r-31"  "Kruskal.cluster":281
+cn "r-31"  "ui.style":"size: 1px;"
+cn "r-31"  "xy":2.500000,5.500000
+an "r-5"
+cn "r-5"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-5-6 (r-5 -> r-6)]]"
+cn "r-5"  "Kruskal.cluster":281
+cn "r-5"  "ui.style":"size: 1px;"
+cn "r-5"  "xy":0.500000,5.500000
+an "r-30"
+cn "r-30"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-17-30 (r-17 -> r-30)]]"
+cn "r-30"  "Kruskal.cluster":281
+cn "r-30"  "ui.style":"size: 1px;"
+cn "r-30"  "xy":2.500000,4.500000
+an "r-6"
+cn "r-6"  "Kruskal.cluster":281
+cn "r-6"  "ui.style":"size: 1px;"
+cn "r-6"  "xy":0.500000,6.500000
+an "r-37"
+cn "r-37"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-36-37 (r-36 -> r-37)]]"
+cn "r-37"  "Kruskal.cluster":281
+cn "r-37"  "ui.style":"size: 1px;"
+cn "r-37"  "xy":2.500000,11.500000
+an "r-7"
+cn "r-7"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-6-7 (r-6 -> r-7)]]"
+cn "r-7"  "Kruskal.cluster":281
+cn "r-7"  "ui.style":"size: 1px;"
+cn "r-7"  "xy":0.500000,7.500000
+an "r-36"
+cn "r-36"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-35-36 (r-35 -> r-36)]]"
+cn "r-36"  "Kruskal.cluster":281
+cn "r-36"  "ui.style":"size: 1px;"
+cn "r-36"  "xy":2.500000,10.500000
+an "r-8"
+cn "r-8"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-7-8 (r-7 -> r-8)]]"
+cn "r-8"  "Kruskal.cluster":281
+cn "r-8"  "ui.style":"size: 1px;"
+cn "r-8"  "xy":0.500000,8.500000
+an "r-35"
+cn "r-35"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-34-35 (r-34 -> r-35)]]"
+cn "r-35"  "Kruskal.cluster":281
+cn "r-35"  "ui.style":"size: 1px;"
+cn "r-35"  "xy":2.500000,9.500000
+an "r-9"
+cn "r-9"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-9-22 (r-9 -> r-22)]]"
+cn "r-9"  "Kruskal.cluster":281
+cn "r-9"  "ui.style":"size: 1px;"
+cn "r-9"  "xy":0.500000,9.500000
+an "r-34"
+cn "r-34"  "org.graphstream.algorithm.Dijkstra@1eec35/ParentEdges":"[[edge r-21-34 (r-21 -> r-34)]]"
+cn "r-34"  "Kruskal.cluster":281
+cn "r-34"  "ui.style":"size: 1px;"
+cn "r-34"  "xy":2.500000,8.500000
+ae "175176" "175"  "176"
+ce "175176"  "inTree":"true"
+ce "175176"  "weight":15.062481
+ae "r-84-97" "r-84"  "r-97"
+ce "r-84-97"  "inTree":"false"
+ce "r-84-97"  "ui.style":"fill-color: white;"
+ce "r-84-97"  "weight":0.491287
+ae "r-110-111" "r-110"  "r-111"
+ce "r-110-111"  "inTree":"true"
+ce "r-110-111"  "ui.style":"fill-color: white;"
+ce "r-110-111"  "weight":0.195969
+ae "r-83-96" "r-83"  "r-96"
+ce "r-83-96"  "inTree":"true"
+ce "r-83-96"  "ui.style":"fill-color: white;"
+ce "r-83-96"  "weight":0.242342
+ae "r-68-69" "r-68"  "r-69"
+ce "r-68-69"  "inTree":"true"
+ce "r-68-69"  "ui.style":"fill-color: white;"
+ce "r-68-69"  "weight":0.546231
+ae "r-43-44" "r-43"  "r-44"
+ce "r-43-44"  "inTree":"false"
+ce "r-43-44"  "ui.style":"fill-color: white;"
+ce "r-43-44"  "weight":0.871199
+ae "r-17-18" "r-17"  "r-18"
+ce "r-17-18"  "inTree":"true"
+ce "r-17-18"  "ui.style":"size: 4.5px;"
+ce "r-17-18"  "weight":0.091273
+ae "r-139-152" "r-139"  "r-152"
+ce "r-139-152"  "inTree":"false"
+ce "r-139-152"  "ui.style":"fill-color: white;"
+ce "r-139-152"  "weight":0.772088
+ae "146147" "146"  "147"
+ce "146147"  "inTree":"true"
+ce "146147"  "weight":28.883653
+ae "r-62-63" "r-62"  "r-63"
+ce "r-62-63"  "inTree":"false"
+ce "r-62-63"  "ui.style":"fill-color: white;"
+ce "r-62-63"  "weight":0.574912
+ae "r-30-31" "r-30"  "r-31"
+ce "r-30-31"  "inTree":"false"
+ce "r-30-31"  "ui.style":"fill-color: white;"
+ce "r-30-31"  "weight":0.712435
+ae "r-97-110" "r-97"  "r-110"
+ce "r-97-110"  "inTree":"false"
+ce "r-97-110"  "ui.style":"fill-color: white;"
+ce "r-97-110"  "weight":0.200297
+ae "r-18-31" "r-18"  "r-31"
+ce "r-18-31"  "inTree":"false"
+ce "r-18-31"  "ui.style":"fill-color: white;"
+ce "r-18-31"  "weight":0.929588
+ae "6781" "67"  "81"
+ce "6781"  "inTree":"true"
+ce "6781"  "weight":23.629369
+ae "r-122-135" "r-122"  "r-135"
+ce "r-122-135"  "inTree":"false"
+ce "r-122-135"  "ui.style":"fill-color: white;"
+ce "r-122-135"  "weight":0.889152
+ae "r-84-85" "r-84"  "r-85"
+ce "r-84-85"  "inTree":"true"
+ce "r-84-85"  "ui.style":"fill-color: white;"
+ce "r-84-85"  "weight":0.301396
+ae "96110" "96"  "110"
+ce "96110"  "inTree":"true"
+ce "96110"  "weight":48.898654
+ae "r-112-113" "r-112"  "r-113"
+ce "r-112-113"  "inTree":"true"
+ce "r-112-113"  "ui.style":"fill-color: white;"
+ce "r-112-113"  "weight":0.026477
+ae "1428" "14"  "28"
+ce "1428"  "inTree":"true"
+ce "1428"  "weight":0.000000
+ae "1327" "13"  "27"
+ce "1327"  "inTree":"true"
+ce "1327"  "weight":0.000000
+ae "135149" "135"  "149"
+ce "135149"  "inTree":"true"
+ce "135149"  "weight":6.503169
+ae "5367" "53"  "67"
+ce "5367"  "inTree":"true"
+ce "5367"  "weight":15.434436
+ae "1718" "17"  "18"
+ce "1718"  "inTree":"true"
+ce "1718"  "weight":2.424775
+ae "140154" "140"  "154"
+ce "140154"  "inTree":"true"
+ce "140154"  "weight":0.000000
+ae "6364" "63"  "64"
+ce "6364"  "inTree":"true"
+ce "6364"  "weight":1.885626
+ae "r-139-140" "r-139"  "r-140"
+ce "r-139-140"  "inTree":"true"
+ce "r-139-140"  "ui.style":"fill-color: white;"
+ce "r-139-140"  "weight":0.397449
+ae "r-88-89" "r-88"  "r-89"
+ce "r-88-89"  "inTree":"true"
+ce "r-88-89"  "ui.style":"fill-color: white;"
+ce "r-88-89"  "weight":0.206372
+ae "r-19-20" "r-19"  "r-20"
+ce "r-19-20"  "inTree":"true"
+ce "r-19-20"  "ui.style":"fill-color: white;"
+ce "r-19-20"  "weight":0.074917
+ae "r-166-167" "r-166"  "r-167"
+ce "r-166-167"  "inTree":"true"
+ce "r-166-167"  "ui.style":"fill-color: white;"
+ce "r-166-167"  "weight":0.537813
+ae "2842" "28"  "42"
+ce "2842"  "inTree":"true"
+ce "2842"  "weight":0.000000
+ae "131132" "131"  "132"
+ce "131132"  "inTree":"true"
+ce "131132"  "weight":52.733564
+ae "r-62-75" "r-62"  "r-75"
+ce "r-62-75"  "inTree":"true"
+ce "r-62-75"  "ui.style":"fill-color: white;"
+ce "r-62-75"  "weight":0.498141
+ae "r-122-123" "r-122"  "r-123"
+ce "r-122-123"  "inTree":"true"
+ce "r-122-123"  "ui.style":"fill-color: white;"
+ce "r-122-123"  "weight":0.400109
+ae "216" "2"  "16"
+ce "216"  "inTree":"true"
+ce "216"  "weight":7.506226
+ae "r-153-154" "r-153"  "r-154"
+ce "r-153-154"  "inTree":"true"
+ce "r-153-154"  "ui.style":"fill-color: white;"
+ce "r-153-154"  "weight":0.532601
+ae "135136" "135"  "136"
+ce "135136"  "inTree":"true"
+ce "135136"  "weight":32.084343
+ae "5354" "53"  "54"
+ce "5354"  "inTree":"true"
+ce "5354"  "weight":29.353023
+ae "923" "9"  "23"
+ce "923"  "inTree":"true"
+ce "923"  "weight":25.081506
+ae "418" "4"  "18"
+ce "418"  "inTree":"true"
+ce "418"  "weight":29.529849
+ae "r-17-30" "r-17"  "r-30"
+ce "r-17-30"  "inTree":"false"
+ce "r-17-30"  "ui.style":"fill-color: white;"
+ce "r-17-30"  "weight":0.637383
+ae "r-68-81" "r-68"  "r-81"
+ce "r-68-81"  "inTree":"true"
+ce "r-68-81"  "ui.style":"fill-color: white;"
+ce "r-68-81"  "weight":0.485748
+ae "6377" "63"  "77"
+ce "6377"  "inTree":"true"
+ce "6377"  "weight":21.690086
+ae "519" "5"  "19"
+ce "519"  "inTree":"true"
+ce "519"  "weight":43.881553
+ae "r-152-153" "r-152"  "r-153"
+ce "r-152-153"  "inTree":"true"
+ce "r-152-153"  "ui.style":"fill-color: white;"
+ce "r-152-153"  "weight":0.366860
+ae "6478" "64"  "78"
+ce "6478"  "inTree":"true"
+ce "6478"  "weight":51.223837
+ae "r-137-138" "r-137"  "r-138"
+ce "r-137-138"  "inTree":"true"
+ce "r-137-138"  "ui.style":"fill-color: white;"
+ce "r-137-138"  "weight":0.111880
+ae "r-157-158" "r-157"  "r-158"
+ce "r-157-158"  "inTree":"false"
+ce "r-157-158"  "ui.style":"fill-color: white;"
+ce "r-157-158"  "weight":0.937138
+ae "175189" "175"  "189"
+ce "175189"  "inTree":"true"
+ce "175189"  "weight":37.726394
+ae "r-58-59" "r-58"  "r-59"
+ce "r-58-59"  "inTree":"true"
+ce "r-58-59"  "ui.style":"fill-color: white;"
+ce "r-58-59"  "weight":0.141509
+ae "r-137-150" "r-137"  "r-150"
+ce "r-137-150"  "inTree":"true"
+ce "r-137-150"  "ui.style":"fill-color: white;"
+ce "r-137-150"  "weight":0.297552
+ae "123137" "123"  "137"
+ce "123137"  "inTree":"true"
+ce "123137"  "weight":39.604814
+ae "104105" "104"  "105"
+ce "104105"  "inTree":"true"
+ce "104105"  "weight":24.784805
+ae "910" "9"  "10"
+ce "910"  "inTree":"true"
+ce "910"  "weight":0.000000
+ae "146160" "146"  "160"
+ce "146160"  "inTree":"true"
+ce "146160"  "weight":11.855498
+ae "138139" "138"  "139"
+ce "138139"  "inTree":"true"
+ce "138139"  "weight":35.017787
+ae "r-99-112" "r-99"  "r-112"
+ce "r-99-112"  "inTree":"true"
+ce "r-99-112"  "ui.style":"fill-color: white;"
+ce "r-99-112"  "weight":0.280565
+ae "177178" "177"  "178"
+ce "177178"  "inTree":"true"
+ce "177178"  "weight":13.258359
+ae "r-30-43" "r-30"  "r-43"
+ce "r-30-43"  "inTree":"true"
+ce "r-30-43"  "ui.style":"fill-color: white;"
+ce "r-30-43"  "weight":0.095067
+ae "r-151-152" "r-151"  "r-152"
+ce "r-151-152"  "inTree":"false"
+ce "r-151-152"  "ui.style":"fill-color: white;"
+ce "r-151-152"  "weight":0.835545
+ae "r-82-83" "r-82"  "r-83"
+ce "r-82-83"  "inTree":"true"
+ce "r-82-83"  "ui.style":"fill-color: white;"
+ce "r-82-83"  "weight":0.408949
+ae "143157" "143"  "157"
+ce "143157"  "inTree":"true"
+ce "143157"  "weight":24.712280
+ae "139153" "139"  "153"
+ce "139153"  "inTree":"true"
+ce "139153"  "weight":0.000000
+ae "014" "0"  "14"
+ce "014"  "inTree":"true"
+ce "014"  "weight":0.000000
+ae "r-75-88" "r-75"  "r-88"
+ce "r-75-88"  "inTree":"false"
+ce "r-75-88"  "ui.style":"fill-color: white;"
+ce "r-75-88"  "weight":0.729275
+ae "r-7-8" "r-7"  "r-8"
+ce "r-7-8"  "inTree":"true"
+ce "r-7-8"  "ui.style":"fill-color: white;"
+ce "r-7-8"  "weight":0.535377
+ae "r-8-9" "r-8"  "r-9"
+ce "r-8-9"  "inTree":"false"
+ce "r-8-9"  "ui.style":"fill-color: white;"
+ce "r-8-9"  "weight":0.738326
+ae "183184" "183"  "184"
+ce "183184"  "inTree":"true"
+ce "183184"  "weight":0.000000
+ae "110111" "110"  "111"
+ce "110111"  "inTree":"true"
+ce "110111"  "weight":13.343813
+ae "9495" "94"  "95"
+ce "9495"  "inTree":"true"
+ce "9495"  "weight":31.856471
+ae "9596" "95"  "96"
+ce "9596"  "inTree":"true"
+ce "9596"  "weight":10.105677
+ae "r-86-99" "r-86"  "r-99"
+ce "r-86-99"  "inTree":"false"
+ce "r-86-99"  "ui.style":"fill-color: white;"
+ce "r-86-99"  "weight":0.408815
+ae "r-36-49" "r-36"  "r-49"
+ce "r-36-49"  "inTree":"true"
+ce "r-36-49"  "ui.style":"fill-color: white;"
+ce "r-36-49"  "weight":0.316093
+ae "93107" "93"  "107"
+ce "93107"  "inTree":"true"
+ce "93107"  "weight":41.866963
+ae "r-72-73" "r-72"  "r-73"
+ce "r-72-73"  "inTree":"true"
+ce "r-72-73"  "ui.style":"fill-color: white;"
+ce "r-72-73"  "weight":0.057624
+ae "103104" "103"  "104"
+ce "103104"  "inTree":"true"
+ce "103104"  "weight":34.088409
+ae "r-105-106" "r-105"  "r-106"
+ce "r-105-106"  "inTree":"false"
+ce "r-105-106"  "ui.style":"fill-color: white;"
+ce "r-105-106"  "weight":0.414361
+ae "100114" "100"  "114"
+ce "100114"  "inTree":"true"
+ce "100114"  "weight":11.312787
+ae "181195" "181"  "195"
+ce "181195"  "inTree":"true"
+ce "181195"  "weight":0.000000
+ae "r-15-28" "r-15"  "r-28"
+ce "r-15-28"  "inTree":"true"
+ce "r-15-28"  "ui.style":"size: 4.5px;"
+ce "r-15-28"  "weight":0.137627
+ae "r-71-72" "r-71"  "r-72"
+ce "r-71-72"  "inTree":"true"
+ce "r-71-72"  "ui.style":"fill-color: white;"
+ce "r-71-72"  "weight":0.049832
+ae "143144" "143"  "144"
+ce "143144"  "inTree":"true"
+ce "143144"  "weight":15.523774
+ae "r-101-102" "r-101"  "r-102"
+ce "r-101-102"  "inTree":"false"
+ce "r-101-102"  "ui.style":"fill-color: white;"
+ce "r-101-102"  "weight":0.593983
+ae "r-82-95" "r-82"  "r-95"
+ce "r-82-95"  "inTree":"false"
+ce "r-82-95"  "ui.style":"fill-color: white;"
+ce "r-82-95"  "weight":0.768851
+ae "r-99-100" "r-99"  "r-100"
+ce "r-99-100"  "inTree":"false"
+ce "r-99-100"  "ui.style":"fill-color: white;"
+ce "r-99-100"  "weight":0.721648
+ae "102116" "102"  "116"
+ce "102116"  "inTree":"true"
+ce "102116"  "weight":32.139091
+ae "r-38-51" "r-38"  "r-51"
+ce "r-38-51"  "inTree":"true"
+ce "r-38-51"  "ui.style":"fill-color: white;"
+ce "r-38-51"  "weight":0.198747
+ae "r-75-76" "r-75"  "r-76"
+ce "r-75-76"  "inTree":"true"
+ce "r-75-76"  "ui.style":"fill-color: white;"
+ce "r-75-76"  "weight":0.213518
+ae "r-152-165" "r-152"  "r-165"
+ce "r-152-165"  "inTree":"true"
+ce "r-152-165"  "ui.style":"fill-color: white;"
+ce "r-152-165"  "weight":0.374864
+ae "r-86-87" "r-86"  "r-87"
+ce "r-86-87"  "inTree":"false"
+ce "r-86-87"  "ui.style":"fill-color: white;"
+ce "r-86-87"  "weight":0.934027
+ae "r-45-46" "r-45"  "r-46"
+ce "r-45-46"  "inTree":"true"
+ce "r-45-46"  "ui.style":"fill-color: white;"
+ce "r-45-46"  "weight":0.415182
+ae "103117" "103"  "117"
+ce "103117"  "inTree":"true"
+ce "103117"  "weight":2.783033
+ae "r-105-118" "r-105"  "r-118"
+ce "r-105-118"  "inTree":"true"
+ce "r-105-118"  "ui.style":"fill-color: white;"
+ce "r-105-118"  "weight":0.317828
+ae "r-108-109" "r-108"  "r-109"
+ce "r-108-109"  "inTree":"true"
+ce "r-108-109"  "ui.style":"fill-color: white;"
+ce "r-108-109"  "weight":0.432243
+ae "r-15-16" "r-15"  "r-16"
+ce "r-15-16"  "inTree":"true"
+ce "r-15-16"  "ui.style":"size: 4.5px;"
+ce "r-15-16"  "weight":0.252717
+ae "r-71-84" "r-71"  "r-84"
+ce "r-71-84"  "inTree":"true"
+ce "r-71-84"  "ui.style":"fill-color: white;"
+ce "r-71-84"  "weight":0.350436
+ae "7387" "73"  "87"
+ce "7387"  "inTree":"true"
+ce "7387"  "weight":27.167408
+ae "97111" "97"  "111"
+ce "97111"  "inTree":"true"
+ce "97111"  "weight":0.000000
+ae "102103" "102"  "103"
+ce "102103"  "inTree":"true"
+ce "102103"  "weight":14.959092
+ae "r-44-45" "r-44"  "r-45"
+ce "r-44-45"  "inTree":"true"
+ce "r-44-45"  "ui.style":"fill-color: white;"
+ce "r-44-45"  "weight":0.552243
+ae "7576" "75"  "76"
+ce "7576"  "inTree":"true"
+ce "7576"  "weight":9.773760
+ae "r-73-74" "r-73"  "r-74"
+ce "r-73-74"  "inTree":"false"
+ce "r-73-74"  "ui.style":"fill-color: white;"
+ce "r-73-74"  "weight":0.592523
+ae "r-101-114" "r-101"  "r-114"
+ce "r-101-114"  "inTree":"true"
+ce "r-101-114"  "ui.style":"fill-color: white;"
+ce "r-101-114"  "weight":0.268614
+ae "r-112-125" "r-112"  "r-125"
+ce "r-112-125"  "inTree":"false"
+ce "r-112-125"  "ui.style":"fill-color: white;"
+ce "r-112-125"  "weight":0.996849
+ae "r-42-43" "r-42"  "r-43"
+ce "r-42-43"  "inTree":"false"
+ce "r-42-43"  "ui.style":"fill-color: white;"
+ce "r-42-43"  "weight":0.936703
+ae "r-18-19" "r-18"  "r-19"
+ce "r-18-19"  "inTree":"true"
+ce "r-18-19"  "ui.style":"size: 4.5px;"
+ce "r-18-19"  "weight":0.242398
+ae "108122" "108"  "122"
+ce "108122"  "inTree":"true"
+ce "108122"  "weight":6.094896
+ae "r-45-58" "r-45"  "r-58"
+ce "r-45-58"  "inTree":"true"
+ce "r-45-58"  "ui.style":"fill-color: white;"
+ce "r-45-58"  "weight":0.401947
+ae "7374" "73"  "74"
+ce "7374"  "inTree":"true"
+ce "7374"  "weight":35.479030
+ae "r-90-103" "r-90"  "r-103"
+ce "r-90-103"  "inTree":"false"
+ce "r-90-103"  "ui.style":"fill-color: white;"
+ce "r-90-103"  "weight":0.833945
+ae "r-158-159" "r-158"  "r-159"
+ce "r-158-159"  "inTree":"true"
+ce "r-158-159"  "ui.style":"fill-color: white;"
+ce "r-158-159"  "weight":0.294759
+ae "r-44-57" "r-44"  "r-57"
+ce "r-44-57"  "inTree":"true"
+ce "r-44-57"  "ui.style":"fill-color: white;"
+ce "r-44-57"  "weight":0.477461
+ae "r-73-86" "r-73"  "r-86"
+ce "r-73-86"  "inTree":"false"
+ce "r-73-86"  "ui.style":"fill-color: white;"
+ce "r-73-86"  "weight":0.452372
+ae "109110" "109"  "110"
+ce "109110"  "inTree":"true"
+ce "109110"  "weight":10.338358
+ae "r-43-56" "r-43"  "r-56"
+ce "r-43-56"  "inTree":"false"
+ce "r-43-56"  "ui.style":"fill-color: white;"
+ce "r-43-56"  "weight":0.824288
+ae "r-7-20" "r-7"  "r-20"
+ce "r-7-20"  "inTree":"false"
+ce "r-7-20"  "ui.style":"fill-color: white;"
+ce "r-7-20"  "weight":0.773541
+ae "r-110-123" "r-110"  "r-123"
+ce "r-110-123"  "inTree":"false"
+ce "r-110-123"  "ui.style":"fill-color: white;"
+ce "r-110-123"  "weight":0.871050
+ae "87101" "87"  "101"
+ce "87101"  "inTree":"true"
+ce "87101"  "weight":18.064695
+ae "r-42-55" "r-42"  "r-55"
+ce "r-42-55"  "inTree":"true"
+ce "r-42-55"  "ui.style":"fill-color: white;"
+ce "r-42-55"  "weight":0.416314
+ae "r-160-161" "r-160"  "r-161"
+ce "r-160-161"  "inTree":"false"
+ce "r-160-161"  "ui.style":"fill-color: white;"
+ce "r-160-161"  "weight":0.886167
+ae "2236" "22"  "36"
+ce "2236"  "inTree":"true"
+ce "2236"  "weight":34.255152
+ae "r-5-18" "r-5"  "r-18"
+ce "r-5-18"  "inTree":"true"
+ce "r-5-18"  "ui.style":"fill-color: white;"
+ce "r-5-18"  "weight":0.382925
+ae "r-155-168" "r-155"  "r-168"
+ce "r-155-168"  "inTree":"true"
+ce "r-155-168"  "ui.style":"fill-color: white;"
+ce "r-155-168"  "weight":0.208190
+ae "118119" "118"  "119"
+ce "118119"  "inTree":"true"
+ce "118119"  "weight":26.721315
+ae "2135" "21"  "35"
+ce "2135"  "inTree":"true"
+ce "2135"  "weight":48.027127
+ae "r-31-44" "r-31"  "r-44"
+ce "r-31-44"  "inTree":"true"
+ce "r-31-44"  "ui.style":"fill-color: white;"
+ce "r-31-44"  "weight":0.270266
+ae "r-13-26" "r-13"  "r-26"
+ce "r-13-26"  "inTree":"true"
+ce "r-13-26"  "ui.style":"fill-color: white;"
+ce "r-13-26"  "weight":0.281923
+ae "6162" "61"  "62"
+ce "6162"  "inTree":"true"
+ce "6162"  "weight":13.185003
+ae "r-98-99" "r-98"  "r-99"
+ce "r-98-99"  "inTree":"false"
+ce "r-98-99"  "ui.style":"fill-color: white;"
+ce "r-98-99"  "weight":0.519478
+ae "2640" "26"  "40"
+ce "2640"  "inTree":"true"
+ce "2640"  "weight":52.559615
+ae "r-21-22" "r-21"  "r-22"
+ce "r-21-22"  "inTree":"false"
+ce "r-21-22"  "ui.style":"fill-color: white;"
+ce "r-21-22"  "weight":0.441966
+ae "r-121-122" "r-121"  "r-122"
+ce "r-121-122"  "inTree":"false"
+ce "r-121-122"  "ui.style":"fill-color: white;"
+ce "r-121-122"  "weight":0.989518
+ae "2741" "27"  "41"
+ce "2741"  "inTree":"true"
+ce "2741"  "weight":0.000000
+ae "101102" "101"  "102"
+ce "101102"  "inTree":"true"
+ce "101102"  "weight":37.496822
+ae "r-23-36" "r-23"  "r-36"
+ce "r-23-36"  "inTree":"true"
+ce "r-23-36"  "ui.style":"fill-color: white;"
+ce "r-23-36"  "weight":0.378782
+ae "3334" "33"  "34"
+ce "3334"  "inTree":"true"
+ce "3334"  "weight":13.888835
+ae "r-100-113" "r-100"  "r-113"
+ce "r-100-113"  "inTree":"true"
+ce "r-100-113"  "ui.style":"fill-color: white;"
+ce "r-100-113"  "weight":0.569976
+ae "r-41-42" "r-41"  "r-42"
+ce "r-41-42"  "inTree":"false"
+ce "r-41-42"  "ui.style":"fill-color: white;"
+ce "r-41-42"  "weight":0.867349
+ae "179193" "179"  "193"
+ce "179193"  "inTree":"true"
+ce "179193"  "weight":32.200560
+ae "r-94-95" "r-94"  "r-95"
+ce "r-94-95"  "inTree":"true"
+ce "r-94-95"  "ui.style":"fill-color: white;"
+ce "r-94-95"  "weight":0.009576
+ae "r-91-104" "r-91"  "r-104"
+ce "r-91-104"  "inTree":"true"
+ce "r-91-104"  "ui.style":"size: 4.5px;"
+ce "r-91-104"  "weight":0.052287
+ae "1529" "15"  "29"
+ce "1529"  "inTree":"true"
+ce "1529"  "weight":40.606144
+ae "8397" "83"  "97"
+ce "8397"  "inTree":"true"
+ce "8397"  "weight":0.000000
+ae "185186" "185"  "186"
+ce "185186"  "inTree":"true"
+ce "185186"  "weight":0.000000
+ae "r-31-32" "r-31"  "r-32"
+ce "r-31-32"  "inTree":"true"
+ce "r-31-32"  "ui.style":"fill-color: white;"
+ce "r-31-32"  "weight":0.018021
+ae "r-13-14" "r-13"  "r-14"
+ce "r-13-14"  "inTree":"false"
+ce "r-13-14"  "ui.style":"fill-color: white;"
+ce "r-13-14"  "weight":0.910138
+ae "r-32-33" "r-32"  "r-33"
+ce "r-32-33"  "inTree":"true"
+ce "r-32-33"  "ui.style":"fill-color: white;"
+ce "r-32-33"  "weight":0.225031
+ae "r-9-10" "r-9"  "r-10"
+ce "r-9-10"  "inTree":"true"
+ce "r-9-10"  "ui.style":"fill-color: white;"
+ce "r-9-10"  "weight":0.135538
+ae "r-146-159" "r-146"  "r-159"
+ce "r-146-159"  "inTree":"false"
+ce "r-146-159"  "ui.style":"fill-color: white;"
+ce "r-146-159"  "weight":0.935773
+ae "r-67-80" "r-67"  "r-80"
+ce "r-67-80"  "inTree":"false"
+ce "r-67-80"  "ui.style":"fill-color: white;"
+ce "r-67-80"  "weight":0.851123
+ae "r-28-29" "r-28"  "r-29"
+ce "r-28-29"  "inTree":"true"
+ce "r-28-29"  "ui.style":"fill-color: white;"
+ce "r-28-29"  "weight":0.256791
+ae "r-64-77" "r-64"  "r-77"
+ce "r-64-77"  "inTree":"true"
+ce "r-64-77"  "ui.style":"fill-color: white;"
+ce "r-64-77"  "weight":0.060376
+ae "6983" "69"  "83"
+ce "6983"  "inTree":"true"
+ce "6983"  "weight":0.000000
+ae "155169" "155"  "169"
+ce "155169"  "inTree":"true"
+ce "155169"  "weight":15.185858
+ae "3347" "33"  "47"
+ce "3347"  "inTree":"true"
+ce "3347"  "weight":42.330831
+ae "r-27-40" "r-27"  "r-40"
+ce "r-27-40"  "inTree":"false"
+ce "r-27-40"  "ui.style":"fill-color: white;"
+ce "r-27-40"  "weight":0.993440
+ae "8498" "84"  "98"
+ce "8498"  "inTree":"true"
+ce "8498"  "weight":0.000000
+ae "3549" "35"  "49"
+ce "3549"  "inTree":"true"
+ce "3549"  "weight":11.391710
+ae "r-134-147" "r-134"  "r-147"
+ce "r-134-147"  "inTree":"true"
+ce "r-134-147"  "ui.style":"fill-color: white;"
+ce "r-134-147"  "weight":0.173630
+ae "112126" "112"  "126"
+ce "112126"  "inTree":"true"
+ce "112126"  "weight":0.000000
+ae "7690" "76"  "90"
+ce "7690"  "inTree":"true"
+ce "7690"  "weight":32.061087
+ae "r-4-17" "r-4"  "r-17"
+ce "r-4-17"  "inTree":"false"
+ce "r-4-17"  "ui.style":"fill-color: white;"
+ce "r-4-17"  "weight":0.938301
+ae "113114" "113"  "114"
+ce "113114"  "inTree":"true"
+ce "113114"  "weight":35.574108
+ae "3145" "31"  "45"
+ce "3145"  "inTree":"true"
+ce "3145"  "weight":18.901410
+ae "r-96-97" "r-96"  "r-97"
+ce "r-96-97"  "inTree":"false"
+ce "r-96-97"  "ui.style":"fill-color: white;"
+ce "r-96-97"  "weight":0.995785
+ae "r-102-115" "r-102"  "r-115"
+ce "r-102-115"  "inTree":"true"
+ce "r-102-115"  "ui.style":"fill-color: white;"
+ce "r-102-115"  "weight":0.427005
+ae "1516" "15"  "16"
+ce "1516"  "inTree":"true"
+ce "1516"  "weight":5.404684
+ae "r-9-22" "r-9"  "r-22"
+ce "r-9-22"  "inTree":"false"
+ce "r-9-22"  "ui.style":"fill-color: white;"
+ce "r-9-22"  "weight":0.652006
+ae "2627" "26"  "27"
+ce "2627"  "inTree":"true"
+ce "2627"  "weight":11.979751
+ae "r-127-128" "r-127"  "r-128"
+ce "r-127-128"  "inTree":"false"
+ce "r-127-128"  "ui.style":"fill-color: white;"
+ce "r-127-128"  "weight":0.672703
+ae "114115" "114"  "115"
+ce "114115"  "inTree":"true"
+ce "114115"  "weight":14.302234
+ae "171172" "171"  "172"
+ce "171172"  "inTree":"true"
+ce "171172"  "weight":24.592107
+ae "r-103-116" "r-103"  "r-116"
+ce "r-103-116"  "inTree":"false"
+ce "r-103-116"  "ui.style":"fill-color: white;"
+ce "r-103-116"  "weight":0.937625
+ae "r-48-49" "r-48"  "r-49"
+ce "r-48-49"  "inTree":"true"
+ce "r-48-49"  "ui.style":"fill-color: white;"
+ce "r-48-49"  "weight":0.258423
+ae "113127" "113"  "127"
+ce "113127"  "inTree":"true"
+ce "113127"  "weight":49.971156
+ae "3132" "31"  "32"
+ce "3132"  "inTree":"true"
+ce "3132"  "weight":32.270927
+ae "r-36-37" "r-36"  "r-37"
+ce "r-36-37"  "inTree":"true"
+ce "r-36-37"  "ui.style":"fill-color: white;"
+ce "r-36-37"  "weight":0.420878
+ae "r-3-16" "r-3"  "r-16"
+ce "r-3-16"  "inTree":"false"
+ce "r-3-16"  "ui.style":"fill-color: white;"
+ce "r-3-16"  "weight":0.916916
+ae "r-102-103" "r-102"  "r-103"
+ce "r-102-103"  "inTree":"true"
+ce "r-102-103"  "ui.style":"fill-color: white;"
+ce "r-102-103"  "weight":0.676266
+ae "r-59-72" "r-59"  "r-72"
+ce "r-59-72"  "inTree":"false"
+ce "r-59-72"  "ui.style":"fill-color: white;"
+ce "r-59-72"  "weight":0.970214
+ae "r-121-134" "r-121"  "r-134"
+ce "r-121-134"  "inTree":"true"
+ce "r-121-134"  "ui.style":"fill-color: white;"
+ce "r-121-134"  "weight":0.372038
+ae "114128" "114"  "128"
+ce "114128"  "inTree":"true"
+ce "114128"  "weight":3.561568
+ae "r-95-108" "r-95"  "r-108"
+ce "r-95-108"  "inTree":"true"
+ce "r-95-108"  "ui.style":"fill-color: white;"
+ce "r-95-108"  "weight":0.128235
+ae "r-23-24" "r-23"  "r-24"
+ce "r-23-24"  "inTree":"false"
+ce "r-23-24"  "ui.style":"fill-color: white;"
+ce "r-23-24"  "weight":0.453100
+ae "r-27-28" "r-27"  "r-28"
+ce "r-27-28"  "inTree":"false"
+ce "r-27-28"  "ui.style":"fill-color: white;"
+ce "r-27-28"  "weight":0.851788
+ae "r-41-54" "r-41"  "r-54"
+ce "r-41-54"  "inTree":"true"
+ce "r-41-54"  "ui.style":"size: 4.5px;"
+ce "r-41-54"  "weight":0.415130
+ae "r-100-101" "r-100"  "r-101"
+ce "r-100-101"  "inTree":"false"
+ce "r-100-101"  "ui.style":"fill-color: white;"
+ce "r-100-101"  "weight":0.874735
+ae "r-28-41" "r-28"  "r-41"
+ce "r-28-41"  "inTree":"true"
+ce "r-28-41"  "ui.style":"size: 4.5px;"
+ce "r-28-41"  "weight":0.270741
+ae "r-67-68" "r-67"  "r-68"
+ce "r-67-68"  "inTree":"false"
+ce "r-67-68"  "ui.style":"fill-color: white;"
+ce "r-67-68"  "weight":0.656908
+ae "r-127-140" "r-127"  "r-140"
+ce "r-127-140"  "inTree":"true"
+ce "r-127-140"  "ui.style":"fill-color: white;"
+ce "r-127-140"  "weight":0.145820
+ae "r-146-147" "r-146"  "r-147"
+ce "r-146-147"  "inTree":"true"
+ce "r-146-147"  "ui.style":"fill-color: white;"
+ce "r-146-147"  "weight":0.447155
+ae "r-109-122" "r-109"  "r-122"
+ce "r-109-122"  "inTree":"false"
+ce "r-109-122"  "ui.style":"fill-color: white;"
+ce "r-109-122"  "weight":0.975055
+ae "r-50-63" "r-50"  "r-63"
+ce "r-50-63"  "inTree":"false"
+ce "r-50-63"  "ui.style":"fill-color: white;"
+ce "r-50-63"  "weight":0.805798
+ae "132133" "132"  "133"
+ce "132133"  "inTree":"true"
+ce "132133"  "weight":7.349386
+ae "r-151-164" "r-151"  "r-164"
+ce "r-151-164"  "inTree":"false"
+ce "r-151-164"  "ui.style":"fill-color: white;"
+ce "r-151-164"  "weight":0.651358
+ae "r-148-149" "r-148"  "r-149"
+ce "r-148-149"  "inTree":"true"
+ce "r-148-149"  "ui.style":"fill-color: white;"
+ce "r-148-149"  "weight":0.145336
+ae "r-59-60" "r-59"  "r-60"
+ce "r-59-60"  "inTree":"false"
+ce "r-59-60"  "ui.style":"fill-color: white;"
+ce "r-59-60"  "weight":0.794777
+ae "r-56-69" "r-56"  "r-69"
+ce "r-56-69"  "inTree":"false"
+ce "r-56-69"  "ui.style":"fill-color: white;"
+ce "r-56-69"  "weight":0.888092
+ae "r-88-101" "r-88"  "r-101"
+ce "r-88-101"  "inTree":"true"
+ce "r-88-101"  "ui.style":"fill-color: white;"
+ce "r-88-101"  "weight":0.251383
+ae "r-48-61" "r-48"  "r-61"
+ce "r-48-61"  "inTree":"true"
+ce "r-48-61"  "ui.style":"fill-color: white;"
+ce "r-48-61"  "weight":0.046667
+ae "r-115-128" "r-115"  "r-128"
+ce "r-115-128"  "inTree":"true"
+ce "r-115-128"  "ui.style":"fill-color: white;"
+ce "r-115-128"  "weight":0.271982
+ae "r-6-19" "r-6"  "r-19"
+ce "r-6-19"  "inTree":"true"
+ce "r-6-19"  "ui.style":"size: 4.5px;"
+ce "r-6-19"  "weight":0.386109
+ae "6263" "62"  "63"
+ce "6263"  "inTree":"true"
+ce "6263"  "weight":19.437818
+ae "189190" "189"  "190"
+ce "189190"  "inTree":"true"
+ce "189190"  "weight":0.000000
+ae "r-109-110" "r-109"  "r-110"
+ce "r-109-110"  "inTree":"false"
+ce "r-109-110"  "ui.style":"fill-color: white;"
+ce "r-109-110"  "weight":0.600300
+ae "r-39-52" "r-39"  "r-52"
+ce "r-39-52"  "inTree":"false"
+ce "r-39-52"  "ui.style":"fill-color: white;"
+ce "r-39-52"  "weight":0.568821
+ae "r-149-150" "r-149"  "r-150"
+ce "r-149-150"  "inTree":"false"
+ce "r-149-150"  "ui.style":"fill-color: white;"
+ce "r-149-150"  "weight":0.835214
+ae "192193" "192"  "193"
+ce "192193"  "inTree":"true"
+ce "192193"  "weight":0.000000
+ae "158159" "158"  "159"
+ce "158159"  "inTree":"true"
+ce "158159"  "weight":20.598973
+ae "r-58-71" "r-58"  "r-71"
+ce "r-58-71"  "inTree":"false"
+ce "r-58-71"  "ui.style":"fill-color: white;"
+ce "r-58-71"  "weight":0.721499
+ae "9394" "93"  "94"
+ce "9394"  "inTree":"true"
+ce "9394"  "weight":37.859676
+ae "r-142-155" "r-142"  "r-155"
+ce "r-142-155"  "inTree":"true"
+ce "r-142-155"  "ui.style":"fill-color: white;"
+ce "r-142-155"  "weight":0.070923
+ae "r-61-62" "r-61"  "r-62"
+ce "r-61-62"  "inTree":"false"
+ce "r-61-62"  "ui.style":"fill-color: white;"
+ce "r-61-62"  "weight":0.651370
+ae "3650" "36"  "50"
+ce "3650"  "inTree":"true"
+ce "3650"  "weight":2.841158
+ae "r-115-116" "r-115"  "r-116"
+ce "r-115-116"  "inTree":"false"
+ce "r-115-116"  "ui.style":"fill-color: white;"
+ce "r-115-116"  "weight":0.875504
+ae "186187" "186"  "187"
+ce "186187"  "inTree":"true"
+ce "186187"  "weight":0.000000
+ae "145159" "145"  "159"
+ce "145159"  "inTree":"true"
+ce "145159"  "weight":8.631259
+ae "r-87-100" "r-87"  "r-100"
+ce "r-87-100"  "inTree":"false"
+ce "r-87-100"  "ui.style":"fill-color: white;"
+ce "r-87-100"  "weight":0.903551
+ae "3448" "34"  "48"
+ce "3448"  "inTree":"true"
+ce "3448"  "weight":28.275429
+ae "r-95-96" "r-95"  "r-96"
+ce "r-95-96"  "inTree":"false"
+ce "r-95-96"  "ui.style":"fill-color: white;"
+ce "r-95-96"  "weight":0.847650
+ae "r-52-53" "r-52"  "r-53"
+ce "r-52-53"  "inTree":"false"
+ce "r-52-53"  "ui.style":"fill-color: white;"
+ce "r-52-53"  "weight":0.625489
+ae "r-149-162" "r-149"  "r-162"
+ce "r-149-162"  "inTree":"true"
+ce "r-149-162"  "ui.style":"fill-color: white;"
+ce "r-149-162"  "weight":0.070690
+ae "r-25-38" "r-25"  "r-38"
+ce "r-25-38"  "inTree":"true"
+ce "r-25-38"  "ui.style":"fill-color: white;"
+ce "r-25-38"  "weight":0.505659
+ae "r-148-161" "r-148"  "r-161"
+ce "r-148-161"  "inTree":"true"
+ce "r-148-161"  "ui.style":"fill-color: white;"
+ce "r-148-161"  "weight":0.200852
+ae "r-119-132" "r-119"  "r-132"
+ce "r-119-132"  "inTree":"false"
+ce "r-119-132"  "ui.style":"fill-color: white;"
+ce "r-119-132"  "weight":0.986011
+ae "3044" "30"  "44"
+ce "3044"  "inTree":"true"
+ce "3044"  "weight":73.922419
+ae "r-141-154" "r-141"  "r-154"
+ce "r-141-154"  "inTree":"false"
+ce "r-141-154"  "ui.style":"fill-color: white;"
+ce "r-141-154"  "weight":0.281796
+ae "155156" "155"  "156"
+ce "155156"  "inTree":"true"
+ce "155156"  "weight":16.217862
+ae "r-89-102" "r-89"  "r-102"
+ce "r-89-102"  "inTree":"true"
+ce "r-89-102"  "ui.style":"fill-color: white;"
+ce "r-89-102"  "weight":0.561259
+ae "r-19-32" "r-19"  "r-32"
+ce "r-19-32"  "inTree":"false"
+ce "r-19-32"  "ui.style":"fill-color: white;"
+ce "r-19-32"  "weight":0.760860
+ae "r-159-160" "r-159"  "r-160"
+ce "r-159-160"  "inTree":"true"
+ce "r-159-160"  "ui.style":"fill-color: white;"
+ce "r-159-160"  "weight":0.549269
+ae "r-164-165" "r-164"  "r-165"
+ce "r-164-165"  "inTree":"true"
+ce "r-164-165"  "ui.style":"fill-color: white;"
+ce "r-164-165"  "weight":0.156000
+ae "168182" "168"  "182"
+ce "168182"  "inTree":"true"
+ce "168182"  "weight":0.000000
+ae "r-32-45" "r-32"  "r-45"
+ce "r-32-45"  "inTree":"false"
+ce "r-32-45"  "ui.style":"fill-color: white;"
+ce "r-32-45"  "weight":0.629315
+ae "r-162-163" "r-162"  "r-163"
+ce "r-162-163"  "inTree":"true"
+ce "r-162-163"  "ui.style":"fill-color: white;"
+ce "r-162-163"  "weight":0.459354
+ae "r-130-131" "r-130"  "r-131"
+ce "r-130-131"  "inTree":"true"
+ce "r-130-131"  "ui.style":"fill-color: white;"
+ce "r-130-131"  "weight":0.445100
+ae "r-52-65" "r-52"  "r-65"
+ce "r-52-65"  "inTree":"true"
+ce "r-52-65"  "ui.style":"fill-color: white;"
+ce "r-52-65"  "weight":0.244462
+ae "8283" "82"  "83"
+ce "8283"  "inTree":"true"
+ce "8283"  "weight":30.074041
+ae "r-141-142" "r-141"  "r-142"
+ce "r-141-142"  "inTree":"true"
+ce "r-141-142"  "ui.style":"fill-color: white;"
+ce "r-141-142"  "weight":0.223742
+ae "r-119-120" "r-119"  "r-120"
+ce "r-119-120"  "inTree":"true"
+ce "r-119-120"  "ui.style":"fill-color: white;"
+ce "r-119-120"  "weight":0.436667
+ae "r-60-61" "r-60"  "r-61"
+ce "r-60-61"  "inTree":"true"
+ce "r-60-61"  "ui.style":"fill-color: white;"
+ce "r-60-61"  "weight":0.343853
+ae "8990" "89"  "90"
+ce "8990"  "inTree":"true"
+ce "8990"  "weight":21.730828
+ae "166167" "166"  "167"
+ce "166167"  "inTree":"true"
+ce "166167"  "weight":18.522533
+ae "126140" "126"  "140"
+ce "126140"  "inTree":"true"
+ce "126140"  "weight":0.000000
+ae "r-29-30" "r-29"  "r-30"
+ce "r-29-30"  "inTree":"true"
+ce "r-29-30"  "ui.style":"fill-color: white;"
+ce "r-29-30"  "weight":0.497929
+ae "r-21-34" "r-21"  "r-34"
+ce "r-21-34"  "inTree":"true"
+ce "r-21-34"  "ui.style":"fill-color: white;"
+ce "r-21-34"  "weight":0.255476
+ae "r-56-57" "r-56"  "r-57"
+ce "r-56-57"  "inTree":"true"
+ce "r-56-57"  "ui.style":"fill-color: white;"
+ce "r-56-57"  "weight":0.234006
+ae "r-111-124" "r-111"  "r-124"
+ce "r-111-124"  "inTree":"true"
+ce "r-111-124"  "ui.style":"fill-color: white;"
+ce "r-111-124"  "weight":0.394191
+ae "116130" "116"  "130"
+ce "116130"  "inTree":"true"
+ce "116130"  "weight":13.703087
+ae "r-39-40" "r-39"  "r-40"
+ce "r-39-40"  "inTree":"true"
+ce "r-39-40"  "ui.style":"fill-color: white;"
+ce "r-39-40"  "weight":0.174725
+ae "142143" "142"  "143"
+ce "142143"  "inTree":"true"
+ce "142143"  "weight":34.792096
+ae "r-29-42" "r-29"  "r-42"
+ce "r-29-42"  "inTree":"false"
+ce "r-29-42"  "ui.style":"fill-color: white;"
+ce "r-29-42"  "weight":0.650202
+ae "r-60-73" "r-60"  "r-73"
+ce "r-60-73"  "inTree":"true"
+ce "r-60-73"  "ui.style":"fill-color: white;"
+ce "r-60-73"  "weight":0.116723
+ae "190191" "190"  "191"
+ce "190191"  "inTree":"true"
+ce "190191"  "weight":0.000000
+ae "160174" "160"  "174"
+ce "160174"  "inTree":"true"
+ce "160174"  "weight":32.967038
+ae "r-132-145" "r-132"  "r-145"
+ce "r-132-145"  "inTree":"true"
+ce "r-132-145"  "ui.style":"fill-color: white;"
+ce "r-132-145"  "weight":0.534017
+ae "r-118-131" "r-118"  "r-131"
+ce "r-118-131"  "inTree":"true"
+ce "r-118-131"  "ui.style":"fill-color: white;"
+ce "r-118-131"  "weight":0.544249
+ae "r-150-151" "r-150"  "r-151"
+ce "r-150-151"  "inTree":"false"
+ce "r-150-151"  "ui.style":"fill-color: white;"
+ce "r-150-151"  "weight":0.922256
+ae "r-3-4" "r-3"  "r-4"
+ce "r-3-4"  "inTree":"true"
+ce "r-3-4"  "ui.style":"fill-color: white;"
+ce "r-3-4"  "weight":0.325899
+ae "r-24-25" "r-24"  "r-25"
+ce "r-24-25"  "inTree":"false"
+ce "r-24-25"  "ui.style":"fill-color: white;"
+ce "r-24-25"  "weight":0.884202
+ae "r-131-144" "r-131"  "r-144"
+ce "r-131-144"  "inTree":"false"
+ce "r-131-144"  "ui.style":"fill-color: white;"
+ce "r-131-144"  "weight":0.831380
+ae "r-74-75" "r-74"  "r-75"
+ce "r-74-75"  "inTree":"true"
+ce "r-74-75"  "ui.style":"fill-color: white;"
+ce "r-74-75"  "weight":0.280096
+ae "144158" "144"  "158"
+ce "144158"  "inTree":"true"
+ce "144158"  "weight":22.736146
+ae "34" "3"  "4"
+ce "34"  "inTree":"true"
+ce "34"  "weight":0.000000
+ae "r-22-23" "r-22"  "r-23"
+ce "r-22-23"  "inTree":"false"
+ce "r-22-23"  "ui.style":"fill-color: white;"
+ce "r-22-23"  "weight":0.573051
+ae "r-35-48" "r-35"  "r-48"
+ce "r-35-48"  "inTree":"true"
+ce "r-35-48"  "ui.style":"fill-color: white;"
+ce "r-35-48"  "weight":0.213761
+ae "2337" "23"  "37"
+ce "2337"  "inTree":"true"
+ce "2337"  "weight":20.736793
+ae "170184" "170"  "184"
+ce "170184"  "inTree":"true"
+ce "170184"  "weight":27.382347
+ae "r-138-139" "r-138"  "r-139"
+ce "r-138-139"  "inTree":"false"
+ce "r-138-139"  "ui.style":"fill-color: white;"
+ce "r-138-139"  "weight":0.600582
+ae "130144" "130"  "144"
+ce "130144"  "inTree":"true"
+ce "130144"  "weight":34.000290
+ae "7892" "78"  "92"
+ce "7892"  "inTree":"true"
+ce "7892"  "weight":9.357509
+ae "r-154-167" "r-154"  "r-167"
+ce "r-154-167"  "inTree":"false"
+ce "r-154-167"  "ui.style":"fill-color: white;"
+ce "r-154-167"  "weight":0.823643
+ae "r-63-64" "r-63"  "r-64"
+ce "r-63-64"  "inTree":"true"
+ce "r-63-64"  "ui.style":"fill-color: white;"
+ce "r-63-64"  "weight":0.481142
+ae "153167" "153"  "167"
+ce "153167"  "inTree":"true"
+ce "153167"  "weight":0.000000
+ae "98112" "98"  "112"
+ce "98112"  "inTree":"true"
+ce "98112"  "weight":0.000000
+ae "r-92-93" "r-92"  "r-93"
+ce "r-92-93"  "inTree":"false"
+ce "r-92-93"  "ui.style":"fill-color: white;"
+ce "r-92-93"  "weight":0.937087
+ae "128129" "128"  "129"
+ce "128129"  "inTree":"true"
+ce "128129"  "weight":38.000292
+ae "r-24-37" "r-24"  "r-37"
+ce "r-24-37"  "inTree":"true"
+ce "r-24-37"  "ui.style":"fill-color: white;"
+ce "r-24-37"  "weight":0.288440
+ae "r-113-126" "r-113"  "r-126"
+ce "r-113-126"  "inTree":"false"
+ce "r-113-126"  "ui.style":"fill-color: white;"
+ce "r-113-126"  "weight":0.727874
+ae "r-22-35" "r-22"  "r-35"
+ce "r-22-35"  "inTree":"true"
+ce "r-22-35"  "ui.style":"fill-color: white;"
+ce "r-22-35"  "weight":0.051120
+ae "23" "2"  "3"
+ce "23"  "inTree":"true"
+ce "23"  "weight":0.000000
+ae "r-8-21" "r-8"  "r-21"
+ce "r-8-21"  "inTree":"true"
+ce "r-8-21"  "ui.style":"fill-color: white;"
+ce "r-8-21"  "weight":0.676698
+ae "r-35-36" "r-35"  "r-36"
+ce "r-35-36"  "inTree":"false"
+ce "r-35-36"  "ui.style":"fill-color: white;"
+ce "r-35-36"  "weight":0.767564
+ae "r-124-137" "r-124"  "r-137"
+ce "r-124-137"  "inTree":"true"
+ce "r-124-137"  "ui.style":"fill-color: white;"
+ce "r-124-137"  "weight":0.076370
+ae "3852" "38"  "52"
+ce "3852"  "inTree":"true"
+ce "3852"  "weight":44.245013
+ae "r-111-112" "r-111"  "r-112"
+ce "r-111-112"  "inTree":"false"
+ce "r-111-112"  "ui.style":"fill-color: white;"
+ce "r-111-112"  "weight":0.526563
+ae "r-37-50" "r-37"  "r-50"
+ce "r-37-50"  "inTree":"true"
+ce "r-37-50"  "ui.style":"fill-color: white;"
+ce "r-37-50"  "weight":0.335599
+ae "r-138-151" "r-138"  "r-151"
+ce "r-138-151"  "inTree":"true"
+ce "r-138-151"  "ui.style":"fill-color: white;"
+ce "r-138-151"  "weight":0.527919
+ae "170171" "170"  "171"
+ce "170171"  "inTree":"true"
+ce "170171"  "weight":1.174312
+ae "7071" "70"  "71"
+ce "7071"  "inTree":"true"
+ce "7071"  "weight":17.838045
+ae "180181" "180"  "181"
+ce "180181"  "inTree":"true"
+ce "180181"  "weight":2.598974
+ae "r-87-88" "r-87"  "r-88"
+ce "r-87-88"  "inTree":"true"
+ce "r-87-88"  "ui.style":"fill-color: white;"
+ce "r-87-88"  "weight":0.418472
+ae "r-118-119" "r-118"  "r-119"
+ce "r-118-119"  "inTree":"true"
+ce "r-118-119"  "ui.style":"fill-color: white;"
+ce "r-118-119"  "weight":0.189167
+ae "r-98-111" "r-98"  "r-111"
+ce "r-98-111"  "inTree":"true"
+ce "r-98-111"  "ui.style":"fill-color: white;"
+ce "r-98-111"  "weight":0.024166
+ae "r-120-133" "r-120"  "r-133"
+ce "r-120-133"  "inTree":"true"
+ce "r-120-133"  "ui.style":"fill-color: white;"
+ce "r-120-133"  "weight":0.503290
+ae "7172" "71"  "72"
+ce "7172"  "inTree":"true"
+ce "7172"  "weight":68.839765
+ae "r-78-91" "r-78"  "r-91"
+ce "r-78-91"  "inTree":"false"
+ce "r-78-91"  "ui.style":"fill-color: white;"
+ce "r-78-91"  "weight":0.745803
+ae "r-81-94" "r-81"  "r-94"
+ce "r-81-94"  "inTree":"false"
+ce "r-81-94"  "ui.style":"fill-color: white;"
+ce "r-81-94"  "weight":0.922265
+ae "r-20-21" "r-20"  "r-21"
+ce "r-20-21"  "inTree":"true"
+ce "r-20-21"  "ui.style":"fill-color: white;"
+ce "r-20-21"  "weight":0.342949
+ae "r-130-143" "r-130"  "r-143"
+ce "r-130-143"  "inTree":"true"
+ce "r-130-143"  "ui.style":"size: 4.5px;"
+ce "r-130-143"  "weight":0.687323
+ae "r-92-105" "r-92"  "r-105"
+ce "r-92-105"  "inTree":"false"
+ce "r-92-105"  "ui.style":"fill-color: white;"
+ce "r-92-105"  "weight":0.984279
+ae "5758" "57"  "58"
+ce "5758"  "inTree":"true"
+ce "5758"  "weight":38.169814
+ae "r-66-67" "r-66"  "r-67"
+ce "r-66-67"  "inTree":"false"
+ce "r-66-67"  "ui.style":"size: 4.5px;"
+ce "r-66-67"  "weight":0.657414
+ae "r-93-106" "r-93"  "r-106"
+ce "r-93-106"  "inTree":"false"
+ce "r-93-106"  "ui.style":"fill-color: white;"
+ce "r-93-106"  "weight":0.993625
+ae "119133" "119"  "133"
+ce "119133"  "inTree":"true"
+ce "119133"  "weight":25.326182
+ae "r-33-34" "r-33"  "r-34"
+ce "r-33-34"  "inTree":"false"
+ce "r-33-34"  "ui.style":"fill-color: white;"
+ce "r-33-34"  "weight":0.551350
+ae "178192" "178"  "192"
+ce "178192"  "inTree":"true"
+ce "178192"  "weight":14.393441
+ae "12" "1"  "2"
+ce "12"  "inTree":"true"
+ce "12"  "weight":0.000000
+ae "167181" "167"  "181"
+ce "167181"  "inTree":"true"
+ce "167181"  "weight":0.000000
+ae "r-80-93" "r-80"  "r-93"
+ce "r-80-93"  "inTree":"false"
+ce "r-80-93"  "ui.style":"fill-color: white;"
+ce "r-80-93"  "weight":0.486003
+ae "172173" "172"  "173"
+ce "172173"  "inTree":"true"
+ce "172173"  "weight":24.225816
+ae "r-0-13" "r-0"  "r-13"
+ce "r-0-13"  "inTree":"false"
+ce "r-0-13"  "ui.style":"fill-color: white;"
+ce "r-0-13"  "weight":0.985108
+ae "r-81-82" "r-81"  "r-82"
+ce "r-81-82"  "inTree":"false"
+ce "r-81-82"  "ui.style":"fill-color: white;"
+ce "r-81-82"  "weight":0.711815
+ae "r-40-41" "r-40"  "r-41"
+ce "r-40-41"  "inTree":"false"
+ce "r-40-41"  "ui.style":"fill-color: white;"
+ce "r-40-41"  "weight":0.637055
+ae "128142" "128"  "142"
+ce "128142"  "inTree":"true"
+ce "128142"  "weight":41.527432
+ae "7185" "71"  "85"
+ce "7185"  "inTree":"true"
+ce "7185"  "weight":16.309353
+ae "r-120-121" "r-120"  "r-121"
+ce "r-120-121"  "inTree":"true"
+ce "r-120-121"  "ui.style":"fill-color: white;"
+ce "r-120-121"  "weight":0.255947
+ae "r-14-27" "r-14"  "r-27"
+ce "r-14-27"  "inTree":"true"
+ce "r-14-27"  "ui.style":"fill-color: white;"
+ce "r-14-27"  "weight":0.097118
+ae "r-66-79" "r-66"  "r-79"
+ce "r-66-79"  "inTree":"true"
+ce "r-66-79"  "ui.style":"size: 4.5px;"
+ce "r-66-79"  "weight":0.605833
+ae "r-65-78" "r-65"  "r-78"
+ce "r-65-78"  "inTree":"true"
+ce "r-65-78"  "ui.style":"fill-color: white;"
+ce "r-65-78"  "weight":0.480066
+ae "r-20-33" "r-20"  "r-33"
+ce "r-20-33"  "inTree":"true"
+ce "r-20-33"  "ui.style":"fill-color: white;"
+ce "r-20-33"  "weight":0.188202
+ae "r-78-79" "r-78"  "r-79"
+ce "r-78-79"  "inTree":"true"
+ce "r-78-79"  "ui.style":"fill-color: white;"
+ce "r-78-79"  "weight":0.395054
+ae "r-74-87" "r-74"  "r-87"
+ce "r-74-87"  "inTree":"false"
+ce "r-74-87"  "ui.style":"fill-color: white;"
+ce "r-74-87"  "weight":0.515696
+ae "9899" "98"  "99"
+ce "9899"  "inTree":"true"
+ce "9899"  "weight":49.285489
+ae "r-33-46" "r-33"  "r-46"
+ce "r-33-46"  "inTree":"false"
+ce "r-33-46"  "ui.style":"fill-color: white;"
+ce "r-33-46"  "weight":0.916792
+ae "01" "0"  "1"
+ce "01"  "inTree":"true"
+ce "01"  "weight":0.000000
+ae "r-76-77" "r-76"  "r-77"
+ce "r-76-77"  "inTree":"true"
+ce "r-76-77"  "ui.style":"fill-color: white;"
+ce "r-76-77"  "weight":0.443628
+ae "r-124-125" "r-124"  "r-125"
+ce "r-124-125"  "inTree":"true"
+ce "r-124-125"  "ui.style":"fill-color: white;"
+ce "r-124-125"  "weight":0.070197
+ae "r-4-5" "r-4"  "r-5"
+ce "r-4-5"  "inTree":"false"
+ce "r-4-5"  "ui.style":"fill-color: white;"
+ce "r-4-5"  "weight":0.719429
+ae "r-63-76" "r-63"  "r-76"
+ce "r-63-76"  "inTree":"false"
+ce "r-63-76"  "ui.style":"fill-color: white;"
+ce "r-63-76"  "weight":0.570025
+ae "r-80-81" "r-80"  "r-81"
+ce "r-80-81"  "inTree":"true"
+ce "r-80-81"  "ui.style":"fill-color: white;"
+ce "r-80-81"  "weight":0.290605
+ae "r-61-74" "r-61"  "r-74"
+ce "r-61-74"  "inTree":"true"
+ce "r-61-74"  "ui.style":"fill-color: white;"
+ce "r-61-74"  "weight":0.011242
+ae "r-40-53" "r-40"  "r-53"
+ce "r-40-53"  "inTree":"true"
+ce "r-40-53"  "ui.style":"fill-color: white;"
+ce "r-40-53"  "weight":0.181334
+ae "5771" "57"  "71"
+ce "5771"  "inTree":"true"
+ce "5771"  "weight":2.296397
+ae "r-116-129" "r-116"  "r-129"
+ce "r-116-129"  "inTree":"true"
+ce "r-116-129"  "ui.style":"fill-color: white;"
+ce "r-116-129"  "weight":0.778923
+ae "r-34-47" "r-34"  "r-47"
+ce "r-34-47"  "inTree":"false"
+ce "r-34-47"  "ui.style":"fill-color: white;"
+ce "r-34-47"  "weight":0.413547
+ae "78" "7"  "8"
+ce "78"  "inTree":"true"
+ce "78"  "weight":0.000000
+ae "4660" "46"  "60"
+ce "4660"  "inTree":"true"
+ce "4660"  "weight":6.800193
+ae "r-79-92" "r-79"  "r-92"
+ce "r-79-92"  "inTree":"true"
+ce "r-79-92"  "ui.style":"size: 4.5px;"
+ce "r-79-92"  "weight":0.125378
+ae "r-76-89" "r-76"  "r-89"
+ce "r-76-89"  "inTree":"true"
+ce "r-76-89"  "ui.style":"fill-color: white;"
+ce "r-76-89"  "weight":0.262961
+ae "134135" "134"  "135"
+ce "134135"  "inTree":"true"
+ce "134135"  "weight":36.850849
+ae "7791" "77"  "91"
+ce "7791"  "inTree":"true"
+ce "7791"  "weight":47.747855
+ae "r-65-66" "r-65"  "r-66"
+ce "r-65-66"  "inTree":"false"
+ce "r-65-66"  "ui.style":"fill-color: white;"
+ce "r-65-66"  "weight":0.622508
+ae "136137" "136"  "137"
+ce "136137"  "inTree":"true"
+ce "136137"  "weight":46.815611
+ae "4256" "42"  "56"
+ce "4256"  "inTree":"true"
+ce "4256"  "weight":0.000000
+ae "r-117-130" "r-117"  "r-130"
+ce "r-117-130"  "inTree":"false"
+ce "r-117-130"  "ui.style":"size: 4.5px;"
+ce "r-117-130"  "weight":0.988477
+ae "4559" "45"  "59"
+ce "4559"  "inTree":"true"
+ce "4559"  "weight":18.587916
+ae "r-165-166" "r-165"  "r-166"
+ce "r-165-166"  "inTree":"true"
+ce "r-165-166"  "ui.style":"fill-color: white;"
+ce "r-165-166"  "weight":0.380832
+ae "r-156-157" "r-156"  "r-157"
+ce "r-156-157"  "inTree":"false"
+ce "r-156-157"  "ui.style":"fill-color: white;"
+ce "r-156-157"  "weight":0.929817
+ae "4155" "41"  "55"
+ce "4155"  "inTree":"true"
+ce "4155"  "weight":0.000000
+ae "r-50-51" "r-50"  "r-51"
+ce "r-50-51"  "inTree":"false"
+ce "r-50-51"  "ui.style":"fill-color: white;"
+ce "r-50-51"  "weight":0.363245
+ae "134148" "134"  "148"
+ce "134148"  "inTree":"true"
+ce "134148"  "weight":48.454782
+ae "r-2-15" "r-2"  "r-15"
+ce "r-2-15"  "inTree":"true"
+ce "r-2-15"  "ui.style":"fill-color: white;"
+ce "r-2-15"  "weight":0.145881
+ae "r-117-118" "r-117"  "r-118"
+ce "r-117-118"  "inTree":"true"
+ce "r-117-118"  "ui.style":"fill-color: white;"
+ce "r-117-118"  "weight":0.257366
+ae "4849" "48"  "49"
+ce "4849"  "inTree":"true"
+ce "4849"  "weight":46.451876
+ae "151165" "151"  "165"
+ce "151165"  "inTree":"true"
+ce "151165"  "weight":42.502770
+ae "133147" "133"  "147"
+ce "133147"  "inTree":"true"
+ce "133147"  "weight":5.856124
+ae "119120" "119"  "120"
+ce "119120"  "inTree":"true"
+ce "119120"  "weight":2.918349
+ae "r-77-90" "r-77"  "r-90"
+ce "r-77-90"  "inTree":"false"
+ce "r-77-90"  "ui.style":"fill-color: white;"
+ce "r-77-90"  "weight":0.743598
+ae "3953" "39"  "53"
+ce "3953"  "inTree":"true"
+ce "3953"  "weight":34.313718
+ae "125139" "125"  "139"
+ce "125139"  "inTree":"true"
+ce "125139"  "weight":0.000000
+ae "4546" "45"  "46"
+ce "4546"  "inTree":"true"
+ce "4546"  "weight":4.075540
+ae "r-94-107" "r-94"  "r-107"
+ce "r-94-107"  "inTree":"true"
+ce "r-94-107"  "ui.style":"fill-color: white;"
+ce "r-94-107"  "weight":0.081619
+ae "4357" "43"  "57"
+ce "4357"  "inTree":"true"
+ce "4357"  "weight":28.078994
+ae "4647" "46"  "47"
+ce "4647"  "inTree":"true"
+ce "4647"  "weight":3.682832
+ae "r-114-115" "r-114"  "r-115"
+ce "r-114-115"  "inTree":"false"
+ce "r-114-115"  "ui.style":"fill-color: white;"
+ce "r-114-115"  "weight":0.980269
+ae "56" "5"  "6"
+ce "56"  "inTree":"true"
+ce "56"  "weight":0.000000
+ae "r-125-138" "r-125"  "r-138"
+ce "r-125-138"  "inTree":"false"
+ce "r-125-138"  "ui.style":"fill-color: white;"
+ce "r-125-138"  "weight":0.627987
+ae "161175" "161"  "175"
+ce "161175"  "inTree":"true"
+ce "161175"  "weight":35.577878
+ae "r-104-105" "r-104"  "r-105"
+ce "r-104-105"  "inTree":"false"
+ce "r-104-105"  "ui.style":"fill-color: white;"
+ce "r-104-105"  "weight":0.606384
+ae "92106" "92"  "106"
+ce "92106"  "inTree":"true"
+ce "92106"  "weight":18.607755
+ae "r-1-14" "r-1"  "r-14"
+ce "r-1-14"  "inTree":"false"
+ce "r-1-14"  "ui.style":"fill-color: white;"
+ce "r-1-14"  "weight":0.638723
+ae "7084" "70"  "84"
+ce "7084"  "inTree":"true"
+ce "7084"  "weight":0.000000
+ae "94108" "94"  "108"
+ce "94108"  "inTree":"true"
+ce "94108"  "weight":30.789093
+ae "r-114-127" "r-114"  "r-127"
+ce "r-114-127"  "inTree":"true"
+ce "r-114-127"  "ui.style":"fill-color: white;"
+ce "r-114-127"  "weight":0.046008
+ae "r-34-35" "r-34"  "r-35"
+ce "r-34-35"  "inTree":"true"
+ce "r-34-35"  "ui.style":"fill-color: white;"
+ce "r-34-35"  "weight":0.197785
+ae "r-47-60" "r-47"  "r-60"
+ce "r-47-60"  "inTree":"false"
+ce "r-47-60"  "ui.style":"fill-color: white;"
+ce "r-47-60"  "weight":0.674438
+ae "4862" "48"  "62"
+ce "4862"  "inTree":"true"
+ce "4862"  "weight":23.382868
+ae "4344" "43"  "44"
+ce "4344"  "inTree":"true"
+ce "4344"  "weight":54.088454
+ae "45" "4"  "5"
+ce "45"  "inTree":"true"
+ce "45"  "weight":0.000000
+ae "r-79-80" "r-79"  "r-80"
+ce "r-79-80"  "inTree":"true"
+ce "r-79-80"  "ui.style":"fill-color: white;"
+ce "r-79-80"  "weight":0.459837
+ae "r-150-163" "r-150"  "r-163"
+ce "r-150-163"  "inTree":"true"
+ce "r-150-163"  "ui.style":"fill-color: white;"
+ce "r-150-163"  "weight":0.337521
+ae "r-131-132" "r-131"  "r-132"
+ce "r-131-132"  "inTree":"false"
+ce "r-131-132"  "ui.style":"fill-color: white;"
+ce "r-131-132"  "weight":0.674205
+ae "r-163-164" "r-163"  "r-164"
+ce "r-163-164"  "inTree":"false"
+ce "r-163-164"  "ui.style":"fill-color: white;"
+ce "r-163-164"  "weight":0.628922
+ae "r-134-135" "r-134"  "r-135"
+ce "r-134-135"  "inTree":"false"
+ce "r-134-135"  "ui.style":"fill-color: white;"
+ce "r-134-135"  "weight":0.916982
+ae "r-125-126" "r-125"  "r-126"
+ce "r-125-126"  "inTree":"false"
+ce "r-125-126"  "ui.style":"fill-color: white;"
+ce "r-125-126"  "weight":0.993689
+ae "188189" "188"  "189"
+ce "188189"  "inTree":"true"
+ce "188189"  "weight":0.000000
+ae "187188" "187"  "188"
+ce "187188"  "inTree":"true"
+ce "187188"  "weight":0.000000
+ae "r-104-117" "r-104"  "r-117"
+ce "r-104-117"  "inTree":"true"
+ce "r-104-117"  "ui.style":"size: 4.5px;"
+ce "r-104-117"  "weight":0.409740
+ae "r-37-38" "r-37"  "r-38"
+ce "r-37-38"  "inTree":"true"
+ce "r-37-38"  "ui.style":"fill-color: white;"
+ce "r-37-38"  "weight":0.343824
+ae "r-154-155" "r-154"  "r-155"
+ce "r-154-155"  "inTree":"true"
+ce "r-154-155"  "ui.style":"fill-color: white;"
+ce "r-154-155"  "weight":0.252577
+ae "r-161-162" "r-161"  "r-162"
+ce "r-161-162"  "inTree":"false"
+ce "r-161-162"  "ui.style":"fill-color: white;"
+ce "r-161-162"  "weight":0.677574
+ae "r-167-168" "r-167"  "r-168"
+ce "r-167-168"  "inTree":"false"
+ce "r-167-168"  "ui.style":"fill-color: white;"
+ce "r-167-168"  "weight":0.987236
+ae "5165" "51"  "65"
+ce "5165"  "inTree":"true"
+ce "5165"  "weight":41.265707
+ae "r-46-59" "r-46"  "r-59"
+ce "r-46-59"  "inTree":"false"
+ce "r-46-59"  "ui.style":"fill-color: white;"
+ce "r-46-59"  "weight":0.484148
+ae "r-70-71" "r-70"  "r-71"
+ce "r-70-71"  "inTree":"true"
+ce "r-70-71"  "ui.style":"fill-color: white;"
+ce "r-70-71"  "weight":0.329210
+ae "r-106-107" "r-106"  "r-107"
+ce "r-106-107"  "inTree":"false"
+ce "r-106-107"  "ui.style":"fill-color: white;"
+ce "r-106-107"  "weight":0.935559
+ae "r-133-134" "r-133"  "r-134"
+ce "r-133-134"  "inTree":"false"
+ce "r-133-134"  "ui.style":"fill-color: white;"
+ce "r-133-134"  "weight":0.838827
+ae "6566" "65"  "66"
+ce "6566"  "inTree":"true"
+ce "6566"  "weight":37.872047
+ae "r-89-90" "r-89"  "r-90"
+ce "r-89-90"  "inTree":"true"
+ce "r-89-90"  "ui.style":"fill-color: white;"
+ce "r-89-90"  "weight":0.558422
+ae "1011" "10"  "11"
+ce "1011"  "inTree":"true"
+ce "1011"  "weight":0.000000
+ae "r-26-39" "r-26"  "r-39"
+ce "r-26-39"  "inTree":"false"
+ce "r-26-39"  "ui.style":"fill-color: white;"
+ce "r-26-39"  "weight":0.988886
+ae "r-123-136" "r-123"  "r-136"
+ce "r-123-136"  "inTree":"true"
+ce "r-123-136"  "ui.style":"fill-color: white;"
+ce "r-123-136"  "weight":0.266582
+ae "r-106-119" "r-106"  "r-119"
+ce "r-106-119"  "inTree":"true"
+ce "r-106-119"  "ui.style":"fill-color: white;"
+ce "r-106-119"  "weight":0.348956
+ae "111125" "111"  "125"
+ce "111125"  "inTree":"true"
+ce "111125"  "weight":0.000000
+ae "r-54-67" "r-54"  "r-67"
+ce "r-54-67"  "inTree":"true"
+ce "r-54-67"  "ui.style":"size: 4.5px;"
+ce "r-54-67"  "weight":0.231229
+ae "r-46-47" "r-46"  "r-47"
+ce "r-46-47"  "inTree":"false"
+ce "r-46-47"  "ui.style":"fill-color: white;"
+ce "r-46-47"  "weight":0.983098
+ae "r-47-48" "r-47"  "r-48"
+ce "r-47-48"  "inTree":"true"
+ce "r-47-48"  "ui.style":"fill-color: white;"
+ce "r-47-48"  "weight":0.258022
+ae "r-85-86" "r-85"  "r-86"
+ce "r-85-86"  "inTree":"true"
+ce "r-85-86"  "ui.style":"fill-color: white;"
+ce "r-85-86"  "weight":0.137543
+ae "8687" "86"  "87"
+ce "8687"  "inTree":"true"
+ce "8687"  "weight":48.484445
+ae "r-26-27" "r-26"  "r-27"
+ce "r-26-27"  "inTree":"true"
+ce "r-26-27"  "ui.style":"fill-color: white;"
+ce "r-26-27"  "weight":0.903807
+ae "r-1-2" "r-1"  "r-2"
+ce "r-1-2"  "inTree":"true"
+ce "r-1-2"  "ui.style":"fill-color: white;"
+ce "r-1-2"  "weight":0.491110
+ae "r-57-58" "r-57"  "r-58"
+ce "r-57-58"  "inTree":"false"
+ce "r-57-58"  "ui.style":"fill-color: white;"
+ce "r-57-58"  "weight":0.712199
+ae "165179" "165"  "179"
+ce "165179"  "inTree":"true"
+ce "165179"  "weight":11.923380
+ae "191192" "191"  "192"
+ce "191192"  "inTree":"true"
+ce "191192"  "weight":0.000000
+ae "5455" "54"  "55"
+ce "5455"  "inTree":"true"
+ce "5455"  "weight":4.522984
+ae "164165" "164"  "165"
+ce "164165"  "inTree":"true"
+ce "164165"  "weight":24.713619
+ae "194195" "194"  "195"
+ce "194195"  "inTree":"true"
+ce "194195"  "weight":0.000000
+ae "6579" "65"  "79"
+ce "6579"  "inTree":"true"
+ce "6579"  "weight":34.979775
+ae "r-97-98" "r-97"  "r-98"
+ce "r-97-98"  "inTree":"true"
+ce "r-97-98"  "ui.style":"fill-color: white;"
+ce "r-97-98"  "weight":0.153338
+ae "r-72-85" "r-72"  "r-85"
+ce "r-72-85"  "inTree":"false"
+ce "r-72-85"  "ui.style":"fill-color: white;"
+ce "r-72-85"  "weight":0.870451
+ae "1125" "11"  "25"
+ce "1125"  "inTree":"true"
+ce "1125"  "weight":11.186473
+ae "r-85-98" "r-85"  "r-98"
+ce "r-85-98"  "inTree":"true"
+ce "r-85-98"  "ui.style":"fill-color: white;"
+ce "r-85-98"  "weight":0.265514
+ae "r-108-121" "r-108"  "r-121"
+ce "r-108-121"  "inTree":"false"
+ce "r-108-121"  "ui.style":"fill-color: white;"
+ce "r-108-121"  "weight":0.975360
+ae "r-126-139" "r-126"  "r-139"
+ce "r-126-139"  "inTree":"false"
+ce "r-126-139"  "ui.style":"fill-color: white;"
+ce "r-126-139"  "weight":0.480652
+ae "151152" "151"  "152"
+ce "151152"  "inTree":"true"
+ce "151152"  "weight":38.448429
+ae "6680" "66"  "80"
+ce "6680"  "inTree":"true"
+ce "6680"  "weight":38.462394
+ae "184185" "184"  "185"
+ce "184185"  "inTree":"true"
+ce "184185"  "weight":0.000000
+ae "1920" "19"  "20"
+ce "1920"  "inTree":"true"
+ce "1920"  "weight":14.805654
+ae "5051" "50"  "51"
+ce "5051"  "inTree":"true"
+ce "5051"  "weight":19.331235
+ae "r-57-70" "r-57"  "r-70"
+ce "r-57-70"  "inTree":"false"
+ce "r-57-70"  "ui.style":"fill-color: white;"
+ce "r-57-70"  "weight":0.988787
+ae "154168" "154"  "168"
+ce "154168"  "inTree":"true"
+ce "154168"  "weight":0.000000
+ae "r-93-94" "r-93"  "r-94"
+ce "r-93-94"  "inTree":"true"
+ce "r-93-94"  "ui.style":"fill-color: white;"
+ce "r-93-94"  "weight":0.271583
+ae "1112" "11"  "12"
+ce "1112"  "inTree":"true"
+ce "1112"  "weight":0.000000
+ae "r-10-23" "r-10"  "r-23"
+ce "r-10-23"  "inTree":"true"
+ce "r-10-23"  "ui.style":"fill-color: white;"
+ce "r-10-23"  "weight":0.131878
+ae "5569" "55"  "69"
+ce "5569"  "inTree":"true"
+ce "5569"  "weight":0.000000
+ae "r-70-83" "r-70"  "r-83"
+ce "r-70-83"  "inTree":"false"
+ce "r-70-83"  "ui.style":"fill-color: white;"
+ce "r-70-83"  "weight":0.791546
+ae "6667" "66"  "67"
+ce "6667"  "inTree":"true"
+ce "6667"  "weight":9.861833
+ae "r-135-136" "r-135"  "r-136"
+ce "r-135-136"  "inTree":"true"
+ce "r-135-136"  "ui.style":"fill-color: white;"
+ce "r-135-136"  "weight":0.019776
+ae "156170" "156"  "170"
+ce "156170"  "inTree":"true"
+ce "156170"  "weight":6.520894
+ae "r-126-127" "r-126"  "r-127"
+ce "r-126-127"  "inTree":"true"
+ce "r-126-127"  "ui.style":"fill-color: white;"
+ce "r-126-127"  "weight":0.185726
+ae "r-5-6" "r-5"  "r-6"
+ce "r-5-6"  "inTree":"false"
+ce "r-5-6"  "ui.style":"fill-color: white;"
+ce "r-5-6"  "weight":0.741411
+ae "r-123-124" "r-123"  "r-124"
+ce "r-123-124"  "inTree":"true"
+ce "r-123-124"  "ui.style":"fill-color: white;"
+ce "r-123-124"  "weight":0.326757
+ae "r-6-7" "r-6"  "r-7"
+ce "r-6-7"  "inTree":"false"
+ce "r-6-7"  "ui.style":"fill-color: white;"
+ce "r-6-7"  "weight":0.906288
+ae "89" "8"  "9"
+ce "89"  "inTree":"true"
+ce "89"  "weight":0.000000
+ae "r-145-146" "r-145"  "r-146"
+ce "r-145-146"  "inTree":"false"
+ce "r-145-146"  "ui.style":"fill-color: white;"
+ce "r-145-146"  "weight":0.701247
+ae "r-147-148" "r-147"  "r-148"
+ce "r-147-148"  "inTree":"false"
+ce "r-147-148"  "ui.style":"fill-color: white;"
+ce "r-147-148"  "weight":0.852715
+ae "r-10-11" "r-10"  "r-11"
+ce "r-10-11"  "inTree":"true"
+ce "r-10-11"  "ui.style":"fill-color: white;"
+ce "r-10-11"  "weight":0.268346
+ae "r-55-68" "r-55"  "r-68"
+ce "r-55-68"  "inTree":"false"
+ce "r-55-68"  "ui.style":"fill-color: white;"
+ce "r-55-68"  "weight":0.850082
+ae "r-128-129" "r-128"  "r-129"
+ce "r-128-129"  "inTree":"true"
+ce "r-128-129"  "ui.style":"fill-color: white;"
+ce "r-128-129"  "weight":0.592468
+ae "117118" "117"  "118"
+ce "117118"  "inTree":"true"
+ce "117118"  "weight":32.114248
+ae "6465" "64"  "65"
+ce "6465"  "inTree":"true"
+ce "6465"  "weight":10.464838
+ae "124138" "124"  "138"
+ce "124138"  "inTree":"true"
+ce "124138"  "weight":41.810967
+ae "r-16-29" "r-16"  "r-29"
+ce "r-16-29"  "inTree":"false"
+ce "r-16-29"  "ui.style":"fill-color: white;"
+ce "r-16-29"  "weight":0.880488
+ae "150151" "150"  "151"
+ce "150151"  "inTree":"true"
+ce "150151"  "weight":14.549783
+ae "r-136-137" "r-136"  "r-137"
+ce "r-136-137"  "inTree":"false"
+ce "r-136-137"  "ui.style":"fill-color: white;"
+ce "r-136-137"  "weight":0.504383
+ae "r-69-70" "r-69"  "r-70"
+ce "r-69-70"  "inTree":"false"
+ce "r-69-70"  "ui.style":"fill-color: white;"
+ce "r-69-70"  "weight":0.567969
+ae "5266" "52"  "66"
+ce "5266"  "inTree":"true"
+ce "5266"  "weight":25.913372
+ae "r-0-1" "r-0"  "r-1"
+ce "r-0-1"  "inTree":"true"
+ce "r-0-1"  "ui.style":"fill-color: white;"
+ce "r-0-1"  "weight":0.712626
+ae "r-96-109" "r-96"  "r-109"
+ce "r-96-109"  "inTree":"true"
+ce "r-96-109"  "ui.style":"fill-color: white;"
+ce "r-96-109"  "weight":0.001644
+ae "r-14-15" "r-14"  "r-15"
+ce "r-14-15"  "inTree":"true"
+ce "r-14-15"  "ui.style":"fill-color: white;"
+ce "r-14-15"  "weight":0.455178
+ae "r-55-56" "r-55"  "r-56"
+ce "r-55-56"  "inTree":"true"
+ce "r-55-56"  "ui.style":"fill-color: white;"
+ce "r-55-56"  "weight":0.575929
+ae "r-129-142" "r-129"  "r-142"
+ce "r-129-142"  "inTree":"false"
+ce "r-129-142"  "ui.style":"fill-color: white;"
+ce "r-129-142"  "weight":0.693888
+ae "r-144-157" "r-144"  "r-157"
+ce "r-144-157"  "inTree":"true"
+ce "r-144-157"  "ui.style":"fill-color: white;"
+ce "r-144-157"  "weight":0.265731
+ae "8788" "87"  "88"
+ce "8788"  "inTree":"true"
+ce "8788"  "weight":38.213997
+ae "141142" "141"  "142"
+ce "141142"  "inTree":"true"
+ce "141142"  "weight":2.193757
+ae "r-147-160" "r-147"  "r-160"
+ce "r-147-160"  "inTree":"false"
+ce "r-147-160"  "ui.style":"fill-color: white;"
+ce "r-147-160"  "weight":0.922907
+ae "r-136-149" "r-136"  "r-149"
+ce "r-136-149"  "inTree":"false"
+ce "r-136-149"  "ui.style":"fill-color: white;"
+ce "r-136-149"  "weight":0.806032
+ae "r-140-141" "r-140"  "r-141"
+ce "r-140-141"  "inTree":"true"
+ce "r-140-141"  "ui.style":"fill-color: white;"
+ce "r-140-141"  "weight":0.193642
+ae "r-2-3" "r-2"  "r-3"
+ce "r-2-3"  "inTree":"true"
+ce "r-2-3"  "ui.style":"fill-color: white;"
+ce "r-2-3"  "weight":0.256712
+ae "r-69-82" "r-69"  "r-82"
+ce "r-69-82"  "inTree":"false"
+ce "r-69-82"  "ui.style":"fill-color: white;"
+ce "r-69-82"  "weight":0.771288
+ae "r-135-148" "r-135"  "r-148"
+ce "r-135-148"  "inTree":"false"
+ce "r-135-148"  "ui.style":"fill-color: white;"
+ce "r-135-148"  "weight":0.698970
+ae "r-143-156" "r-143"  "r-156"
+ce "r-143-156"  "inTree":"true"
+ce "r-143-156"  "ui.style":"size: 4.5px;"
+ce "r-143-156"  "weight":0.172303
+ae "r-128-141" "r-128"  "r-141"
+ce "r-128-141"  "inTree":"false"
+ce "r-128-141"  "ui.style":"fill-color: white;"
+ce "r-128-141"  "weight":0.918852
+ae "8889" "88"  "89"
+ce "8889"  "inTree":"true"
+ce "8889"  "weight":14.788909
+ae "r-107-108" "r-107"  "r-108"
+ce "r-107-108"  "inTree":"false"
+ce "r-107-108"  "ui.style":"fill-color: white;"
+ce "r-107-108"  "weight":0.687321
+ae "r-54-55" "r-54"  "r-55"
+ce "r-54-55"  "inTree":"false"
+ce "r-54-55"  "ui.style":"fill-color: white;"
+ce "r-54-55"  "weight":0.986883
+ae "r-12-25" "r-12"  "r-25"
+ce "r-12-25"  "inTree":"true"
+ce "r-12-25"  "ui.style":"fill-color: white;"
+ce "r-12-25"  "weight":0.589348
+ae "r-144-145" "r-144"  "r-145"
+ce "r-144-145"  "inTree":"true"
+ce "r-144-145"  "ui.style":"fill-color: white;"
+ce "r-144-145"  "weight":0.326086
+ae "148162" "148"  "162"
+ce "148162"  "inTree":"true"
+ce "148162"  "weight":26.093579
+ae "r-53-54" "r-53"  "r-54"
+ce "r-53-54"  "inTree":"true"
+ce "r-53-54"  "ui.style":"fill-color: white;"
+ce "r-53-54"  "weight":0.446924
+ae "1024" "10"  "24"
+ce "1024"  "inTree":"true"
+ce "1024"  "weight":2.647909
+ae "r-49-62" "r-49"  "r-62"
+ce "r-49-62"  "inTree":"false"
+ce "r-49-62"  "ui.style":"fill-color: white;"
+ce "r-49-62"  "weight":0.547018
+ae "r-91-92" "r-91"  "r-92"
+ce "r-91-92"  "inTree":"true"
+ce "r-91-92"  "ui.style":"size: 4.5px;"
+ce "r-91-92"  "weight":0.045659
+ae "r-153-166" "r-153"  "r-166"
+ce "r-153-166"  "inTree":"false"
+ce "r-153-166"  "ui.style":"fill-color: white;"
+ce "r-153-166"  "weight":0.502868
+ae "121122" "121"  "122"
+ce "121122"  "inTree":"true"
+ce "121122"  "weight":31.652931
+ae "r-140-153" "r-140"  "r-153"
+ce "r-140-153"  "inTree":"false"
+ce "r-140-153"  "ui.style":"fill-color: white;"
+ce "r-140-153"  "weight":0.737817
+ae "r-83-84" "r-83"  "r-84"
+ce "r-83-84"  "inTree":"true"
+ce "r-83-84"  "ui.style":"fill-color: white;"
+ce "r-83-84"  "weight":0.544350
+ae "r-11-12" "r-11"  "r-12"
+ce "r-11-12"  "inTree":"false"
+ce "r-11-12"  "ui.style":"fill-color: white;"
+ce "r-11-12"  "weight":0.689711
+ae "193194" "193"  "194"
+ce "193194"  "inTree":"true"
+ce "193194"  "weight":0.000000
+ae "r-143-144" "r-143"  "r-144"
+ce "r-143-144"  "inTree":"false"
+ce "r-143-144"  "ui.style":"fill-color: white;"
+ce "r-143-144"  "weight":0.730084
+ae "r-51-64" "r-51"  "r-64"
+ce "r-51-64"  "inTree":"false"
+ce "r-51-64"  "ui.style":"fill-color: white;"
+ce "r-51-64"  "weight":0.956985
+ae "r-145-158" "r-145"  "r-158"
+ce "r-145-158"  "inTree":"true"
+ce "r-145-158"  "ui.style":"fill-color: white;"
+ce "r-145-158"  "weight":0.737210
+ae "149150" "149"  "150"
+ce "149150"  "inTree":"true"
+ce "149150"  "weight":6.134891
+ae "r-113-114" "r-113"  "r-114"
+ce "r-113-114"  "inTree":"true"
+ce "r-113-114"  "ui.style":"fill-color: white;"
+ce "r-113-114"  "weight":0.171736
+ae "r-53-66" "r-53"  "r-66"
+ce "r-53-66"  "inTree":"false"
+ce "r-53-66"  "ui.style":"fill-color: white;"
+ce "r-53-66"  "weight":0.969211
+ae "120134" "120"  "134"
+ce "120134"  "inTree":"true"
+ce "120134"  "weight":27.329472
+ae "r-49-50" "r-49"  "r-50"
+ce "r-49-50"  "inTree":"false"
+ce "r-49-50"  "ui.style":"fill-color: white;"
+ce "r-49-50"  "weight":0.539665
+ae "5468" "54"  "68"
+ce "5468"  "inTree":"true"
+ce "5468"  "weight":30.040454
+ae "163177" "163"  "177"
+ce "163177"  "inTree":"true"
+ce "163177"  "weight":32.946103
+ae "5670" "56"  "70"
+ce "5670"  "inTree":"true"
+ce "5670"  "weight":0.000000
+ae "r-16-17" "r-16"  "r-17"
+ce "r-16-17"  "inTree":"true"
+ce "r-16-17"  "ui.style":"size: 4.5px;"
+ce "r-16-17"  "weight":0.375027
+ae "r-107-120" "r-107"  "r-120"
+ce "r-107-120"  "inTree":"true"
+ce "r-107-120"  "ui.style":"fill-color: white;"
+ce "r-107-120"  "weight":0.094077
+ae "1213" "12"  "13"
+ce "1213"  "inTree":"true"
+ce "1213"  "weight":0.000000
+ae "r-133-146" "r-133"  "r-146"
+ce "r-133-146"  "inTree":"false"
+ce "r-133-146"  "ui.style":"fill-color: white;"
+ce "r-133-146"  "weight":0.842165
+ae "r-132-133" "r-132"  "r-133"
+ce "r-132-133"  "inTree":"true"
+ce "r-132-133"  "ui.style":"fill-color: white;"
+ce "r-132-133"  "weight":0.302966
+ae "r-11-24" "r-11"  "r-24"
+ce "r-11-24"  "inTree":"false"
+ce "r-11-24"  "ui.style":"fill-color: white;"
+ce "r-11-24"  "weight":0.778966
